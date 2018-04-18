@@ -1,0 +1,1207 @@
+Year,Month,Day,Site,Level,Observer,Transect_type,Transect_number,Transect_section,Depth_m,Lat nort,Long,Genusspecies,Frequency,Size_cm
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,algae,1,0-10,10,27.870367,-115.0444,Sargassum_muticum,10,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,algae,1,20-Oct,10,27.870367,-115.0444,Sargassum_muticum,10,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,algae,1,20-30,10,27.870367,-115.0444,Sargassum_muticum,10,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,1,0-10,10,27.870367,-115.0444,Megastrea_undosa,24,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,1,20-Oct,10,27.870367,-115.0444,Megastrea_undosa,2,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,1,0-10,10,27.870367,-115.0444,Panulirus_innterruptus         ,2,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,1,20-Oct,10,27.870367,-115.0444,Panulirus_innterruptus         ,15,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,1,20-30,10,27.870367,-115.0444,Panulirus_innterruptus         ,20,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,1,0-10,10,27.870367,-115.0444,Pacifigorgia_spp,2,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,1,0-10,10,27.870367,-115.0444,Muricea_californica,5,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,1,20-Oct,10,27.870367,-115.0444,Muricea_californica,4,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,1,0-10,10,27.870367,-115.0444,Centrostephanus_coronatus,1,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,1,20-Oct,10,27.870367,-115.0444,Centrostephanus_coronatus,6,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,1,20-30,10,27.870367,-115.0444,Centrostephanus_coronatus,5,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,algae,2,0-10,10,27.870367,-115.0444,Sargassum_muticum,3,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,algae,2,20-Oct,10,27.870367,-115.0444,Sargassum_muticum,10,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,algae,2,20-30,10,27.870367,-115.0444,Sargassum_muticum,10,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,0-10,10,27.870367,-115.0444,Megastrea_undosa,7,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,20-Oct,10,27.870367,-115.0444,Megastrea_undosa,6,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,20-30,10,27.870367,-115.0444,Megastrea_undosa,3,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,0-10,10,27.870367,-115.0444,Panulirus_innterruptus         ,1,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,20-Oct,10,27.870367,-115.0444,Panulirus_innterruptus         ,10,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,20-30,10,27.870367,-115.0444,Panulirus_innterruptus         ,10,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,20-30,10,27.870367,-115.0444,Lophogorgia_chilensis,3,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,0-10,10,27.870367,-115.0444,Muricea_californica,5,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,20-Oct,10,27.870367,-115.0444,Muricea_californica,4,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,20-30,10,27.870367,-115.0444,Muricea_californica,2,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,0-10,10,27.870367,-115.0444,Centrostephanus_coronatus,2,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,20-Oct,10,27.870367,-115.0444,Centrostephanus_coronatus,6,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,inverts,2,20-30,10,27.870367,-115.0444,Centrostephanus_coronatus,4,Na
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Semicossyphus_pulcher,1,40
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Semicossyphus_pulcher,3,30
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Semicossyphus_pulcher,5,10
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Paralabrax_clathratus,4,15
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Paralabrax_clathratus,9,20
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Paralabrax_clathratus,6,25
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Paralabrax_clathratus,2,30
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Paralabrax_clathratus,1,5
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Paralabrax_clathratus,3,10
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Anisotremus_davidsonii,22,10
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Anisotremus_davidsonii,5,15
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Anisotremus_davidsonii,4,20
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Anisotremus_davidsonii,3,10
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Chromis_punctipinnis,135,5
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Chromis_punctipinnis,10,10
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Chromis_punctipinnis,31,15
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Chromis_punctipinnis,16,10
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Chromis_punctipinnis,1,20
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Halichoeres_semicinctus,4,10
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Halichoeres_semicinctus,5,15
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Hypsypops_rubicundus,5,10
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Hypsypops_rubicundus,1,20
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Hypsypops_rubicundus,2,15
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Oxyjulis_californica,70,25
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Caulolatilus_princeps,3,20
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,1,Na,10,27.870367,-115.0444,Caulolatilus_princeps,2,15
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Caulolatilus_princeps,2,20
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Semicossyphus_pulcher,2,10
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Semicossyphus_pulcher,3,15
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Semicossyphus_pulcher,1,20
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Semicossyphus_pulcher,1,30
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Paralabrax_clathratus,12,10
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Paralabrax_clathratus,2,15
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Paralabrax_clathratus,20,20
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Paralabrax_clathratus,2,30
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Paralabrax_clathratus,1,25
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Anisotremus_davidsonii,10,20
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Anisotremus_davidsonii,2,40
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Hypsypops_rubicundus,1,10
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Hypsypops_rubicundus,2,15
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Halichoeres_semicinctus,1,5
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Halichoeres_semicinctus,7,10
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Halichoeres_semicinctus,2,15
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Halichoeres_semicinctus,1,20
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Chromis_punctipinnis,21,40
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,Chromis_punctipinnis,10,20
+2016,5,21,Piedra_Blanca,Mid,Ainoa V. ,fish,2,Na,10,27.870367,-115.0444,caulolatilus_princeps,15,5
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,1,Na,10,27.870367,-115.0444,0_10 cm,25,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,1,Na,10,27.870367,-115.0444,10 cm_1 m,5,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,1,Na,10,27.870367,-115.0444,Bedrock_1_m,29,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,1,Na,10,27.870367,-115.0444,Sand,1,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,1,Na,10,27.870367,-115.0444,Bushy_cylindrical_branches,1,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,1,Na,10,27.870367,-115.0444,Articulated_coralline_algae ,10,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,1,Na,10,27.870367,-115.0444,Encrusting_red,5,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,1,Na,10,27.870367,-115.0444,Sargassum_muticum,11,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,1,Na,10,27.870367,-115.0444,Leaf_blade_unbranched,2,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,1,Na,10,27.870367,-115.0444,Eisenia_arborea,1,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,2,Na,10,27.870367,-115.0444,0_10 cm,28,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,2,Na,10,27.870367,-115.0444,10 cm_1 m,1,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,2,Na,10,27.870367,-115.0444,1 m_2 m,1,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,2,Na,10,27.870367,-115.0444,Bedrock_1_m,29,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,2,Na,10,27.870367,-115.0444,Sand,1,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,2,Na,10,27.870367,-115.0444,Articulated_coralline_algae ,9,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,2,Na,10,27.870367,-115.0444,sargassum_muticum,15,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,2,Na,10,27.870367,-115.0444,Encrusting_red,5,Na
+2016,5,21,Piedra_Blanca,Mid,Memo T. ,upc,2,Na,10,27.870367,-115.0444,Bare_rock,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,algae,1,0-10,10,27.870367,-115.0444,Eisenia_arborea,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,algae,1,20-Oct,10,27.870367,-115.0444,Eisenia_arborea,6,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,algae,1,20-30,10,27.870367,-115.0444,Eisenia_arborea,4,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,algae,1,0-10,10,27.870367,-115.0444,Sargassum_muticum,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,algae,1,20-30,10,27.870367,-115.0444,Sargassum_muticum,3,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,1,0-10,10,27.870367,-115.0444,Megastrea_undosa,3,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,1,0-10,10,27.870367,-115.0444,Dictyotales_spp,6,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,1,20-Oct,10,27.870367,-115.0444,Dictyotales_spp,19,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,1,20-30,10,27.870367,-115.0444,Dictyotales_spp,2,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,1,20-Oct,10,27.870367,-115.0444,Articulated_coralline_algae ,5,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,1,20-30,10,27.870367,-115.0444,Articulated_coralline_algae ,6,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,1,20-30,10,27.870367,-115.0444,Bushy_cylindrical_branches,4,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,0-10,10,27.870367,-115.0444,Panulirus_innterruptus         ,2,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-Oct,10,27.870367,-115.0444,Panulirus_innterruptus         ,3,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-30,10,27.870367,-115.0444,Panulirus_innterruptus         ,3,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,0-10,10,27.870367,-115.0444,Acarnus_erithacus,8,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-Oct,10,27.870367,-115.0444,Pacifigorgia_spp,2,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-30,10,27.870367,-115.0444,Pacifigorgia_spp,11,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-Oct,10,27.870367,-115.0444,Muricea_californica,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-Oct,10,27.870367,-115.0444,Pisaster_ giganteus,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-30,10,27.870367,-115.0444,Pisaster_ giganteus,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,2,20-Oct,10,27.870367,-115.0444,Phyllospadix_spp,5,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,2,20-30,10,27.870367,-115.0444,Phyllospadix_spp,3,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,0-10,10,27.870367,-115.0444,Centrostephanus_coronatus,2,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-Oct,10,27.870367,-115.0444,Centrostephanus_coronatus,3,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,0-10,10,27.870367,-115.0444,Scallop,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,algae,2,0-10,10,27.870367,-115.0444,Eisenia_arborea,2,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,algae,2,20-Oct,10,27.870367,-115.0444,Sargassum_muticum,10,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,algae,2,20-30,10,27.870367,-115.0444,Sargassum_muticum,13,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,0-10,10,27.870367,-115.0444,Megastrea_undosa,2,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-30,10,27.870367,-115.0444,Megastrea_undosa,5,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,2,0-10,10,27.870367,-115.0444,Dictyotales_spp,6,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,2,20-Oct,10,27.870367,-115.0444,Dictyotales_spp,3,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,2,20-30,10,27.870367,-115.0444,Dictyotales_spp,3,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,2,20-Oct,10,27.870367,-115.0444,Articulated_coralline_algae ,13,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,2,20-30,10,27.870367,-115.0444,Articulated_coralline_algae ,16,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,upc,2,0-10,10,27.870367,-115.0444,Bushy_cylindrical_branches,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-Oct,10,27.870367,-115.0444,Panulirus_innterruptus         ,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-30,10,27.870367,-115.0444,Panulirus_innterruptus         ,5,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,0-10,10,27.870367,-115.0444,Acarnus_erithacus,6,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-Oct,10,27.870367,-115.0444,Acarnus_erithacus,7,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-30,10,27.870367,-115.0444,Acarnus_erithacus,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,0-10,10,27.870367,-115.0444,Lophogorgia_chilensis,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,0-10,10,27.870367,-115.0444,Pacifigorgia_spp,5,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-30,10,27.870367,-115.0444,Pacifigorgia_spp,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,0-10,10,27.870367,-115.0444,Muricea_californica,2,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-Oct,10,27.870367,-115.0444,Muricea_californica,3,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-30,10,27.870367,-115.0444,Muricea_californica,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-30,10,27.870367,-115.0444,Pisaster_ giganteus,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,0-10,10,27.870367,-115.0444,Centrostephanus_coronatus,1,Na
+2016,6,11,Piedra_Blanca,Mid,Nur,inverts,2,20-Oct,10,27.870367,-115.0444,Centrostephanus_coronatus,1,Na
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,0-10,10,27.870367,-115.0444,Paralabrax_clathratus,3,15
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,0-10,10,27.870367,-115.0444,Paralabrax_clathratus,1,25
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,0-10,10,27.870367,-115.0444,Paralabrax_clathratus,1,60
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,0-10,10,27.870367,-115.0444,Chromis_punctipinnis,3,10
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-Oct,10,27.870367,-115.0444,Chromis_punctipinnis,3,10
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,0-10,10,27.870367,-115.0444,Hypsypops_rubicundus,2,25
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-Oct,10,27.870367,-115.0444,Hypsypops_rubicundus,1,15
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-Oct,10,27.870367,-115.0444,Hypsypops_rubicundus,1,8
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,0-10,10,27.870367,-115.0444,Halichoeres_semicinctus,2,25
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,0-10,10,27.870367,-115.0444,Halichoeres_semicinctus,4,20
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,0-10,10,27.870367,-115.0444,Halichoeres_semicinctus,3,15
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-Oct,10,27.870367,-115.0444,Halichoeres_semicinctus,6,15
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-Oct,10,27.870367,-115.0444,Halichoeres_semicinctus,1,20
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-30,10,27.870367,-115.0444,Halichoeres_semicinctus,1,8
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-30,10,27.870367,-115.0444,Halichoeres_semicinctus,2,15
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-Oct,10,27.870367,-115.0444,Girella_nigricans,8,7
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-Oct,10,27.870367,-115.0444,Anisotremus_davidsonii,7,20
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-30,10,27.870367,-115.0444,Anisotremus_davidsonii,22,25
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-Oct,10,27.870367,-115.0444,Embiotoca_jacksoni,4,18
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-30,10,27.870367,-115.0444,Embiotoca_jacksoni,3,20
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,1,20-Oct,10,27.870367,-115.0444,Paralabrax_clathratus,1,80
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,0-10,10,27.870367,-115.0444,Paralabrax_clathratus,2,30
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,0-10,10,27.870367,-115.0444,Paralabrax_clathratus,1,50
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-Oct,10,27.870367,-115.0444,Paralabrax_clathratus,2,50
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-30,10,27.870367,-115.0444,Paralabrax_clathratus,1,20
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-30,10,27.870367,-115.0444,Paralabrax_clathratus,1,25
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,0-10,10,27.870367,-115.0444,Hypsypops_rubicundus,2,20
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,0-10,10,27.870367,-115.0444,Hypsypops_rubicundus,1,6
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-30,10,27.870367,-115.0444,Hypsypops_rubicundus,2,25
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-Oct,10,27.870367,-115.0444,Semicossyphus_pulcher,1,15
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-Oct,10,27.870367,-115.0444,Semicossyphus_pulcher,1,50
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-Oct,10,27.870367,-115.0444,Girella_nigricans,1,20
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-Oct,10,27.870367,-115.0444,Girella_nigricans,20,10
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-30,10,27.870367,-115.0444,Girella_nigricans,30,10
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-30,10,27.870367,-115.0444,Girella_nigricans,1,40
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-Oct,10,27.870367,-115.0444,Halichoeres_semicinctus,1,20
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-Oct,10,27.870367,-115.0444,Chromis_punctipinnis,2,15
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-30,10,27.870367,-115.0444,Chromis_punctipinnis,10,15
+2016,6,11,Piedra_Blanca,Mid,Ainoa V. ,fish,2,20-30,10,27.870367,-115.0444,Paralabrax_clathratus,1,20
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,1,Na,10,27.870367,-115.0444,Bedrock_1_m,29,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,1,Na,10,27.870367,-115.0444,Sand,1,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,1,Na,10,27.870367,-115.0444,0_10 cm,16,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,1,Na,10,27.870367,-115.0444,1 m_2 m,4,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,1,Na,10,27.870367,-115.0444,1 m_2 m,6,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,1,Na,10,27.870367,-115.0444,2 m,1,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,1,Na,10,27.870367,-115.0444,Articulated_coralline_algae ,25,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,1,Na,10,27.870367,-115.0444,Encrusting_red,3,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,1,Na,10,27.870367,-115.0444,Bushy_cylindrical_branches,1,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,1,Na,10,27.870367,-115.0444,Dictyotales_spp,1,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,2,Na,10,27.870367,-115.0444,Bedrock_1_m,25,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,2,Na,10,27.870367,-115.0444,Boulder_10_cm_1_m,3,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,2,Na,10,27.870367,-115.0444,sand,2,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,2,Na,10,27.870367,-115.0444,Articulated_coralline_algae ,17,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,2,Na,10,27.870367,-115.0444,Sponge,1,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,2,Na,10,27.870367,-115.0444,Bare_sand,2,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,2,Na,10,27.870367,-115.0444,Encrusting_red,6,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,2,Na,10,27.870367,-115.0444,sargassum_muticum,1,Na
+2016,6,11,Piedra_Blanca,Mid,Pamela,upc,2,Na,10,27.870367,-115.0444,Bushy_cylindrical_branches,1,Na
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,0-10,10,27.870367,-115.0444,Halichoeres_semicinctus,14,20
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,0-10,10,27.870367,-115.0444,Halichoeres_semicinctus,11,15
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,0-10,10,27.870367,-115.0444,Halichoeres_semicinctus,6,5
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,20-Oct,10,27.870367,-115.0444,Halichoeres_semicinctus,5,5
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,20-Oct,10,27.870367,-115.0444,Halichoeres_semicinctus,3,3
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,20-Oct,10,27.870367,-115.0444,Halichoeres_semicinctus,1,6
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,20-30,10,27.870367,-115.0444,Halichoeres_semicinctus,1,13
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,20-30,10,27.870367,-115.0444,Halichoeres_semicinctus,1,20
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,0-10,10,27.870367,-115.0444,Hypsypops_rubicundus,1,18
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,0-10,10,27.870367,-115.0444,Paralabrax_clathratus,1,30
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,0-10,10,27.870367,-115.0444,Paralabrax_clathratus,1,15
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,0-10,10,27.870367,-115.0444,Paralabrax_clathratus,1,25
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,20-Oct,10,27.870367,-115.0444,Paralabrax_clathratus,1,15
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,20-Oct,10,27.870367,-115.0444,Paralabrax_clathratus,1,20
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,20-30,10,27.870367,-115.0444,Paralabrax_clathratus,1,30
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,0-10,10,27.870367,-115.0444,Semicossyphus_pulcher,1,80
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,0-10,10,27.870367,-115.0444,Semicossyphus_pulcher,1,40
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,20-Oct,10,27.870367,-115.0444,Semicossyphus_pulcher,1,20
+2016,10,23,Piedra_Blanca,mid,Nur,fish,1,20-30,10,27.870367,-115.0444,Semicossyphus_pulcher,1,50
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-Oct,10,27.870367,-115.0444,Girella_nigricans,11,25
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,0-10,10,27.870367,-115.0444,Halichoeres_semicinctus,1,15
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,0-10,10,27.870367,-115.0444,Halichoeres_semicinctus,30,4
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-Oct,10,27.870367,-115.0444,Halichoeres_semicinctus,10,5
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-Oct,10,27.870367,-115.0444,Halichoeres_semicinctus,4,6
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-Oct,10,27.870367,-115.0444,Halichoeres_semicinctus,1,15
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-Oct,10,27.870367,-115.0444,Halichoeres_semicinctus,1,10
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-30,10,27.870367,-115.0444,Halichoeres_semicinctus,20,3
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-30,10,27.870367,-115.0444,Halichoeres_semicinctus,1,15
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-Oct,10,27.870367,-115.0444,Hypsypops_rubicundus,2,15
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-30,10,27.870367,-115.0444,Hypsypops_rubicundus,1,15
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,0-10,10,27.870367,-115.0444,Paralabrax_clathratus,1,30
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-Oct,10,27.870367,-115.0444,Paralabrax_clathratus,1,15
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-30,10,27.870367,-115.0444,Paralabrax_clathratus,1,15
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-30,10,27.870367,-115.0444,Paralabrax_clathratus,2,25
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-30,10,27.870367,-115.0444,Paralabrax_clathratus,1,30
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-30,10,27.870367,-115.0444,Paralabrax_clathratus,1,35
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,0-10,10,27.870367,-115.0444,Semicossyphus_pulcher,1,60
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-30,10,27.870367,-115.0444,Semicossyphus_pulcher,1,30
+2016,10,23,Piedra_Blanca,mid,Nur,fish,2,20-30,10,27.870367,-115.0444,Semicossyphus_pulcher,1,40
+2016,10,23,Piedra_Blanca,mid,Nur,upc,1,Na,10,27.870367,-115.0444,Bedrock_1_m,27,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,1,Na,10,27.870367,-115.0444,Boulder_10_cm_1_m,3,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,1,Na,10,27.870367,-115.0444,0_10 cm,15,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,1,Na,10,27.870367,-115.0444,10 cm_1 m,8,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,1,Na,10,27.870367,-115.0444,1 m_2 m,7,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,1,Na,10,27.870367,-115.0444,Articulated_coralline_algae ,16,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,1,Na,10,27.870367,-115.0444,Encrusting_red,1,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,1,Na,10,27.870367,-115.0444,Sponge,1,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,1,Na,10,27.870367,-115.0444,Crustose_coralline_algae ,10,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,1,Na,10,27.870367,-115.0444,Bushy_cylindrical_branches,2,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,2,Na,10,27.870367,-115.0444,Bedrock_1_m,28,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,2,Na,10,27.870367,-115.0444,sand,2,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,2,Na,10,27.870367,-115.0444,Articulated_coralline_algae ,19,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,2,Na,10,27.870367,-115.0444,Bare_sand,2,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,2,Na,10,27.870367,-115.0444,Bushy_cylindrical_branches,1,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,2,Na,10,27.870367,-115.0444,Crustose_coralline_algae ,5,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,2,Na,10,27.870367,-115.0444,Sponge,1,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,2,Na,10,27.870367,-115.0444,2 m,1,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,2,Na,10,27.870367,-115.0444,0_10 cm,13,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,2,Na,10,27.870367,-115.0444,1 m_2 m,3,Na
+2016,10,23,Piedra_Blanca,mid,Nur,upc,2,Na,10,27.870367,-115.0444,10 cm_1 m,12,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,1,Na,10,27.870367,-115.0444,Muricea_fruticosa,4,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,1,Na,10,27.870367,-115.0444,Muricea_californica,1,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,1,Na,10,27.870367,-115.0444,Centrostephanus_coronatus,6,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,1,Na,10,27.870367,-115.0444,Megastrea_undosa,5,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,1,Na,10,27.870367,-115.0444,Acarnus_erithacus,1,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,1,Na,10,27.870367,-115.0444,Pacifigorgia_spp,4,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,1,Na,10,27.870367,-115.0444,Cucumaria_salma,9,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,algae,1,Na,10,27.870367,-115.0444,sargassum_muticum,26,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,algae,1,Na,10,27.870367,-115.0444,Laminaria_farlowii,15,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,2,Na,10,27.870367,-115.0444,Muricea_californica,2,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,2,Na,10,27.870367,-115.0444,Centrostephanus_coronatus,6,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,2,Na,10,27.870367,-115.0444,Eucidaris_spp,1,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,2,Na,10,27.870367,-115.0444,Megastrea_undosa,1,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,2,Na,10,27.870367,-115.0444,Acarnus_erithacus,2,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,2,Na,10,27.870367,-115.0444,Pacifigorgia_spp,2,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,inverts,2,Na,10,27.870367,-115.0444,Cucumaria_salma,4,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,algae,2,Na,10,27.870367,-115.0444,sargassum_muticum,32,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,algae,2,Na,10,27.870367,-115.0444,Eisenia_arborea,4,Na
+2016,10,23,Piedra_Blanca,mid,H_ctor H.,algae,2,Na,10,27.870367,-115.0444,Laminaria_farlowii,15,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,1,0-10,10,27.870367,-115.0444,Mesosentrotus_franciscanus,1,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,1,0-10,10,27.870367,-115.0444,Muricea_californica,1,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,1,20-30,10,27.870367,-115.0444,Muricea_californica,1,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,1,0-10,10,27.870367,-115.0444,Muricea_fruticosa,1,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,1,20-Oct,10,27.870367,-115.0444,Lophogorgia_chilensis,2,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,1,20-30,10,27.870367,-115.0444,Lophogorgia_chilensis,1,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,1,0-10,10,27.870367,-115.0444,Megastrea_undosa,3,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,1,20-Oct,10,27.870367,-115.0444,Megastrea_undosa,2,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,1,20-30,10,27.870367,-115.0444,Megastrea_undosa,7,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,2,0-10,10,27.870367,-115.0444,Panulirus_innterruptus         ,1,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,2,0-10,10,27.870367,-115.0444,Megastrea_undosa,2,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,2,20-Oct,10,27.870367,-115.0444,Megastrea_undosa,2,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,2,0-10,10,27.870367,-115.0444,Panulirus_innterruptus         ,1,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,inverts,2,20-Oct,10,27.870367,-115.0444,Panulirus_innterruptus         ,1,Na
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,0-10,10,27.870367,-115.0444,Paralabrax_clathratus,12,15
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,0-10,10,27.870367,-115.0444,Paralabrax_clathratus,2,20
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,0-10,10,27.870367,-115.0444,Paralabrax_clathratus,1,10
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,20-Oct,10,27.870367,-115.0444,Paralabrax_clathratus,2,5
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,20-Oct,10,27.870367,-115.0444,Paralabrax_clathratus,1,15
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,20-Oct,10,27.870367,-115.0444,Paralabrax_clathratus,11,10
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,0-10,10,27.870367,-115.0444,Halichoeres_semicinctus,15,5
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,0-10,10,27.870367,-115.0444,Halichoeres_semicinctus,11,10
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,20-Oct,10,27.870367,-115.0444,Halichoeres_semicinctus,12,10
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,20-Oct,10,27.870367,-115.0444,Halichoeres_semicinctus,3,15
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,0-10,10,27.870367,-115.0444,Chromis_punctipinnis,7,10
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,0-10,10,27.870367,-115.0444,Chromis_punctipinnis,5,5
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,20-Oct,10,27.870367,-115.0444,Chromis_punctipinnis,7,5
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,0-10,10,27.870367,-115.0444,Hypsypops_rubicundus,2,10
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,0-10,10,27.870367,-115.0444,Hypsypops_rubicundus,1,15
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,20-Oct,10,27.870367,-115.0444,Hypsypops_rubicundus,1,15
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,0-10,10,27.870367,-115.0444,Heterostichus_rostratus,1,20
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,20-Oct,10,27.870367,-115.0444,Semicossyphus_pulcher,2,15
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,20-Oct,10,27.870367,-115.0444,Girella_nigricans,2,10
+2017,2,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,20-Oct,10,27.870367,-115.0444,Girella_nigricans,1,15
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,1,Na,10,27.870367,-115.0444,Bedrock_1_m,14,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,1,Na,10,27.870367,-115.0444,Boulder_10_cm_1_m,14,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,1,Na,10,27.870367,-115.0444,sand,2,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,1,Na,10,27.870367,-115.0444,Crustose_coralline_algae ,8,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,1,Na,10,27.870367,-115.0444,Articulated_coralline_algae ,11,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,1,Na,10,27.870367,-115.0444,Dictyotales_spp,3,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,1,Na,10,27.870367,-115.0444,Bare_rock,6,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,1,Na,10,27.870367,-115.0444,Bare_sand,2,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,1,Na,10,27.870367,-115.0444,0_10 cm,4,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,1,Na,10,27.870367,-115.0444,10 cm_1 m,17,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,1,Na,10,27.870367,-115.0444,1 m_2 m,9,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,2,Na,10,27.870367,-115.0444,Bedrock_1_m,20,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,2,Na,10,27.870367,-115.0444,Boulder_10_cm_1_m,5,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,2,Na,10,27.870367,-115.0444,sand,5,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,2,Na,10,27.870367,-115.0444,Crustose_coralline_algae ,12,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,2,Na,10,27.870367,-115.0444,Articulated_coralline_algae ,3,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,2,Na,10,27.870367,-115.0444,Bushy_cylindrical_branches,1,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,2,Na,10,27.870367,-115.0444,Dictyotales_spp,8,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,2,Na,10,27.870367,-115.0444,Bare_rock,1,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,2,Na,10,27.870367,-115.0444,Bare_sand,5,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,2,Na,10,27.870367,-115.0444,0_10 cm,13,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,2,Na,10,27.870367,-115.0444,10 cm_1 m,16,Na
+2017,2,14,Piedra_Blanca,Mid,Eliot D.,upc,2,Na,10,27.870367,-115.0444,1 m_2 m,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,Bedrock_1_m,25,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,Boulder_10_cm_1_m,5,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,0_10 cm,10,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,10 cm_1 m,14,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,1 m_2 m,6,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,Bare_rock,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,Bare_sand,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,Bushy_cylindrical_branches,6,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,Articulated_coralline_algae ,11,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,Dictyotales_spp,2,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,Macrocystis_holdfast_live,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,Colonial_tunicate ,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,1,Na,7,27.869567,-115.04445,Phyllospadix_spp,4,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,Bedrock_1_m,21,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,Boulder_10_cm_1_m,5,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,Cobble_10cm,2,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,sand,2,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,0_10 cm,2,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,10 cm_1 m,24,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,1 m_2 m,4,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,Bare_rock,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,Bare_sand,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,Crustose_coralline_algae ,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,Articulated_coralline_algae ,12,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,Dictyotales_spp,2,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,Laminaria_farlowii,2,Na
+2017,6,21,Piedra_Blanca,Shallow,Rodrigo B.,upc,2,Na,7,27.869567,-115.04445,Colonial_tunicate ,3,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,1,Na,12,27.870367,-115.0444,Bedrock_1_m,26,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,1,Na,12,27.870367,-115.0444,sand,4,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,1,Na,12,27.870367,-115.0444,0_10 cm,27,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,1,Na,12,27.870367,-115.0444,10 cm_1 m,3,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,1,Na,12,27.870367,-115.0444,Crustose_coralline_algae ,7,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,1,Na,12,27.870367,-115.0444,Articulated_coralline_algae ,13,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,1,Na,12,27.870367,-115.0444,Dictyotales_spp,1,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,1,Na,12,27.870367,-115.0444,Colonial_tunicate ,3,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,1,Na,12,27.870367,-115.0444,Sponge,2,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,1,Na,12,27.870367,-115.0444,Macrocystis_holdfast_live,4,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,2,Na,12,27.870367,-115.0444,Bedrock_1_m,27,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,2,Na,12,27.870367,-115.0444,sand,3,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,2,Na,12,27.870367,-115.0444,0_10 cm,23,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,2,Na,12,27.870367,-115.0444,10 cm_1 m,7,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,2,Na,12,27.870367,-115.0444,Crustose_coralline_algae ,7,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,2,Na,12,27.870367,-115.0444,Articulated_coralline_algae ,25,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,2,Na,12,27.870367,-115.0444,Colonial_tunicate ,1,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,2,Na,12,27.870367,-115.0444,Sponge,2,Na
+2017,6,21,Piedra_Blanca,Mid,Rodrigo B.,upc,2,Na,12,27.870367,-115.0444,Macrocystis_holdfast_live,5,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,Bedrock_1_m,21,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,Cobble_10cm,7,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,sand,1,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,0_10 cm,18,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,10 cm_1 m,12,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,Shell_debris,1,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,Leaf_blade_unbranched,2,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,Crustose_coralline_algae ,12,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,Articulated_coralline_algae ,8,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,Cystoseira_osmundasea,2,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,Desmarestia_spp,1,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,Macrocystis_holdfast_live,2,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,Laminaria_farlowii,2,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,1,Na,18,27.870517,-115.044883,Colonial_tunicate ,2,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Bedrock_1_m,23,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Boulder_10_cm_1_m,4,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Cobble_10cm,2,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,sand,1,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Juvenile_laminariales,1,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Leaf_blade_unbranched,1,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Bushy_cylindrical_branches,1,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Crustose_coralline_algae ,8,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Articulated_coralline_algae ,12,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Macrocystis_holdfast_live,3,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Laminaria_farlowii,1,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Cup_corals,2,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Colonial_tunicate ,1,Na
+2017,6,21,Piedra_Blanca,Deep,Rodrigo B.,upc,2,Na,18,27.870517,-115.044883,Muricea_californica,1,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Cucumaria_salma,6,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Muricea_californica,8,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Pacifigorgia_spp,5,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Mesosentrotus_franciscanus,2,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Megastrea_undosa,3,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Panulirus_innterruptus         ,21,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Clavalina_huntsmania,1,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Pycnoclavella_stanleyi,2,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,2,Na,10,27.870367,-115.0444,Acarnus_erithacus,31,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,2,Na,10,27.870367,-115.0444,Megatura_crenulata,1,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,2,Na,10,27.870367,-115.0444,Pycnoclavella_stanleyi,4,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,2,Na,10,27.870367,-115.0444,Clavalina_huntsmania,7,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,2,Na,10,27.870367,-115.0444,Panulirus_innterruptus         ,7,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,2,Na,10,27.870367,-115.0444,Megastrea_undosa,1,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,2,Na,10,27.870367,-115.0444,Scallop,1,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,2,Na,10,27.870367,-115.0444,Leucetta_losangelensis,2,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,2,Na,10,27.870367,-115.0444,Spheciospongia_confoederata,4,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,2,Na,10,27.870367,-115.0444,Muricea_californica,2,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,2,Na,10,27.870367,-115.0444,Cucumaria_salma,2,Na
+2017,6,21,Piedra_Blanca,Mid,Eliot D.,inverts,2,Na,10,27.870367,-115.0444,Tethya_aurantia,4,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,1,Na,18,27.870517,-115.044883,Other_starfish,2,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,1,Na,18,27.870517,-115.044883,Megastrea_undosa,4,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,1,Na,18,27.870517,-115.044883,Muricea_californica,3,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,1,Na,18,27.870517,-115.044883,Pacifigorgia_spp,2,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,1,Na,18,27.870517,-115.044883,Acarnus_erithacus,2,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,1,Na,18,27.870517,-115.044883,Tethya_aurantia,1,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,1,Na,18,27.870517,-115.044883,Panulirus_innterruptus         ,1,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,1,Na,18,27.870517,-115.044883,Cucumaria_salma,1,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,2,Na,18,27.870517,-115.044883,Megastrea_undosa,9,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,2,Na,18,27.870517,-115.044883,Muricea_californica,1,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,2,Na,18,27.870517,-115.044883,Acarnus_erithacus,2,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,2,Na,18,27.870517,-115.044883,Tethya_aurantia,1,Na
+2017,6,21,Piedra_Blanca,Deep,Eliot D.,inverts,2,Na,18,27.870517,-115.044883,Spheciospongia_confoederata,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Panulirus_innterruptus         ,2,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Megastrea_undosa,4,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Centrostephanus_coronatus,2,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Aplysia_californica,2,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Muricea_fruticosa,2,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Clavalina_huntsmania,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Muricea_californica,4,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Lophogorgia_chilensis,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Other_starfish,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Acarnus_erithacus,3,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Didemnum_carnulentum,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Panulirus_innterruptus         ,24,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Megastrea_undosa,15,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Centrostephanus_coronatus,4,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Cucumaria_salma,7,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Aplysia_californica,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Muricea_fruticosa,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Lophogorgia_chilensis,2,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Other_starfish,5,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Urticina_picivora,1,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Acarnus_erithacus,4,Na
+2017,6,21,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Didemnum_carnulentum,10,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,1,Na,10,27.870367,-115.0444,Macrocystis_pyrifera,66,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,1,Na,10,27.870367,-115.0444,Macrocystis_pyrifera_stipes,311,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,1,Na,10,27.870367,-115.0444,Eisenia_arborea,24,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,2,Na,10,27.870367,-115.0444,Macrocystis_pyrifera,62,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,2,Na,10,27.870367,-115.0444,Macrocystis_pyrifera_stipes,279,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,2,Na,10,27.870367,-115.0444,Eisenia_arborea,2,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,1,Na,5,27.870367,-115.0444,Macrocystis_pyrifera,39,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,1,Na,5,27.870367,-115.0444,Macrocystis_pyrifera_stipes,153,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,1,Na,5,27.870367,-115.0444,Eisenia_arborea,32,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,2,Na,5,27.870367,-115.0444,Pterygophora_californica,2,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,1,Na,18,27.870367,-115.0444,Macrocystis_pyrifera,92,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,1,Na,18,27.870367,-115.0444,Macrocystis_pyrifera_stipes,390,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,1,Na,18,27.870367,-115.0444,Eisenia_arborea,2,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,2,Na,18,27.870367,-115.0444,Macrocystis_pyrifera,84,Na
+2017,6,21,Piedra_Blanca,Mid,H_ctor H.,Algae,2,Na,18,27.870367,-115.0444,Macrocystis_pyrifera_stipes,402,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,sand,4,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Bedrock_1_m,26,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Articulated_coralline_algae ,15,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Macrocystis_holdfast_live,1,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Crustose_coralline_algae ,8,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Bushy_cylindrical_branches,1,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Dictyotales_spp,2,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Shell_debris,2,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,0_10 cm,8,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,10 cm_1 m,9,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,1 m_2 m,8,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,2 m,5,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,10,27.870367,-115.0444,Bedrock_1_m,30,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,10,27.870367,-115.0444,Articulated_coralline_algae ,22,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,10,27.870367,-115.0444,Crustose_coralline_algae ,2,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,10,27.870367,-115.0444,Dictyotales_spp,4,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,10,27.870367,-115.0444,Shell_debris,43,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,10,27.870367,-115.0444,0_10 cm,12,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,10,27.870367,-115.0444,10 cm_1 m,12,Na
+2017,8,13,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,10,27.870367,-115.0444,1 m_2 m,6,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,sand,5,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,Bedrock_1_m,11,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,Boulder_10_cm_1_m,7,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,Cobble_10cm,7,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,Shell_debris,7,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,Articulated_coralline_algae ,6,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,Crustose_coralline_algae ,8,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,Macrocystis_holdfast_live,2,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,Bare_rock,5,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,dictyotales_spp,2,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,0_10 cm,21,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,10 cm_1 m,5,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,18,27.870517,-115.044883,1 m_2 m,4,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,18,27.870517,-115.044883,sand,6,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,18,27.870517,-115.044883,Bedrock_1_m,14,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,18,27.870517,-115.044883,Boulder_10_cm_1_m,7,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,18,27.870517,-115.044883,Cobble_10cm,3,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,18,27.870517,-115.044883,Shell_debris,7,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,18,27.870517,-115.044883,Articulated_coralline_algae ,5,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,18,27.870517,-115.044883,Crustose_coralline_algae ,8,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,18,27.870517,-115.044883,Macrocystis_holdfast_live,2,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,18,27.870517,-115.044883,Bare_rock,3,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,18,27.870517,-115.044883,dictyotales_spp,1,Na
+2017,8,13,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,18,27.870517,-115.044883,0_10 cm,30,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,Boulder_10_cm_1_m,1,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,sand,2,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,Bedrock_1_m,27,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,Articulated_coralline_algae ,12,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,Crustose_coralline_algae ,5,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,Bushy_cylindrical_branches,3,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,Macrocystis_holdfast_live,3,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,Phyllospadix_spp,5,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,Bare_rock,1,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,Dictyotales_spp,1,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,0_10 cm,5,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,10 cm_1 m,12,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,1 m_2 m,11,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,7,27.869567,-115.04445,2 m,2,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,sand,1,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,Bedrock_1_m,29,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,Shell_debris,1,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,Articulated_coralline_algae ,13,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,Crustose_coralline_algae ,5,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,Bare_rock,1,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,Bushy_cylindrical_branches,1,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,Phyllospadix_spp,7,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,Dictyotales_spp,2,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,0_10 cm,10,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,10 cm_1 m,9,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,1 m_2 m,5,Na
+2017,8,13,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,7,27.869567,-115.04445,2 m,4,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,0-10,6,27.869567,-115.04445,Panulirus_innterruptus         ,2,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,20-Oct,6,27.869567,-115.04445,Panulirus_innterruptus         ,18,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,20-30,6,27.869567,-115.04445,Panulirus_innterruptus         ,2,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,0-10,6,27.869567,-115.04445,Centrostephanus_coronatus,1,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,20-Oct,6,27.869567,-115.04445,Didemnum_carnulentum,1,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,0-10,6,27.869567,-115.04445,Acarnus_erithacus,3,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,20-Oct,6,27.869567,-115.04445,Acarnus_erithacus,3,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,0-10,6,27.869567,-115.04445,Megastrea_undosa,3,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,20-Oct,6,27.869567,-115.04445,Megastrea_undosa,1,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,0-10,6,27.869567,-115.04445,Hippodiplosioa_insculpta,1,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,20-Oct,6,27.869567,-115.04445,Hippodiplosioa_insculpta,2,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,0-10,6,27.869567,-115.04445,Muricea_californica,1,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,0-10,6,27.869567,-115.04445,Other_starfish,3,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,1,20-Oct,6,27.869567,-115.04445,Other_starfish,1,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,0-10,6,27.869567,-115.04445,Didemnum_carnulentum,3,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,20-30,6,27.869567,-115.04445,Didemnum_carnulentum,5,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,0-10,6,27.869567,-115.04445,Muricea_californica,1,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,20-Oct,6,27.869567,-115.04445,Muricea_californica,3,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,0-10,6,27.869567,-115.04445,Hippodiplosioa_insculpta,1,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,0-10,6,27.869567,-115.04445,Other_starfish,1,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,0-10,6,27.869567,-115.04445,Spheciospongia_confoederata,1,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,20-Oct,6,27.869567,-115.04445,Acarnus_erithacus,1,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,20-30,6,27.869567,-115.04445,Acarnus_erithacus,4,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,20-Oct,6,27.869567,-115.04445,Panulirus_innterruptus         ,24,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,20-30,6,27.869567,-115.04445,Panulirus_innterruptus         ,13,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,0-10,6,27.869567,-115.04445,Megastrea_undosa,1,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,20-Oct,6,27.869567,-115.04445,Megastrea_undosa,8,Na
+2017,8,14,Piedra_Blanca,Shallow,Eliot D.,inverts,2,20-30,6,27.869567,-115.04445,Megastrea_undosa,6,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Megastrea_undosa,21,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,0-10,9,27.870367,-115.0444,Spheciospongia_confoederata,3,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Spheciospongia_confoederata,3,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,0-10,9,27.870367,-115.0444,Acarnus_erithacus,5,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Acarnus_erithacus,4,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Acarnus_erithacus,3,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,0-10,9,27.870367,-115.0444,Clavalina_huntsmania,5,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Clavalina_huntsmania,5,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Clavalina_huntsmania,5,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,0-10,9,27.870367,-115.0444,Lophogorgia_chilensis,7,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Lophogorgia_chilensis,30,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Lophogorgia_chilensis,41,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,0-10,9,27.870367,-115.0444,Muricea_californica,4,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Muricea_californica,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Muricea_californica,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Hippodiplosioa_insculpta,4,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Hippodiplosioa_insculpta,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,0-10,9,27.870367,-115.0444,Didemnum_carnulentum,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Didemnum_carnulentum,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,0-10,9,27.870367,-115.0444,Eucidaris_spp,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Eucidaris_spp,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,0-10,9,27.870367,-115.0444,Centrostephanus_coronatus,5,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Centrostephanus_coronatus,6,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Centrostephanus_coronatus,6,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Haliotis_spp,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Megatura_crenulata,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Tethya_aurantia,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,0-10,9,27.870367,-115.0444,Spheciospongia_confoederata,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Spheciospongia_confoederata,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Spheciospongia_confoederata,2,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,0-10,9,27.870367,-115.0444,Thelepus_Crispus,3,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,0-10,9,27.870367,-115.0444,Acarnus_erithacus,6,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Acarnus_erithacus,3,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Acarnus_erithacus,4,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,0-10,9,27.870367,-115.0444,Panulirus_innterruptus         ,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Panulirus_innterruptus         ,13,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,0-10,9,27.870367,-115.0444,Clavalina_huntsmania,4,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Clavalina_huntsmania,2,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,0-10,9,27.870367,-115.0444,Megastrea_undosa,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,0-10,9,27.870367,-115.0444,Metandrocarpa_taylori,2,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Metandrocarpa_taylori,4,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Metandrocarpa_taylori,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,0-10,9,27.870367,-115.0444,Craniella_spp,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Norrisia _norrisi,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Muricea_californica,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Haliotis_spp,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Megastrea_undosa,3,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Megastrea_undosa,18,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Tethya_aurantia,1,Na
+2017,8,14,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Tethya_aurantia,2,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,14,27.870517,-115.044883,Tethya_aurantia,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,20-Oct,14,27.870517,-115.044883,Tethya_aurantia,2,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,14,27.870517,-115.044883,Thelepus_Crispus,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,14,27.870517,-115.044883,Didemnum_carnulentum,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,14,27.870517,-115.044883,Clavalina_huntsmania,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,20-Oct,14,27.870517,-115.044883,Clavalina_huntsmania,2,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,14,27.870517,-115.044883,Acarnus_erithacus,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,20-Oct,14,27.870517,-115.044883,Acarnus_erithacus,2,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,20-30,14,27.870517,-115.044883,Acarnus_erithacus,3,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,14,27.870517,-115.044883,Metandrocarpa_taylori,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,20-Oct,14,27.870517,-115.044883,Metandrocarpa_taylori,2,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,14,27.870517,-115.044883,Spheciospongia_confoederata,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,14,27.870517,-115.044883,Scallop,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,20-30,14,27.870517,-115.044883,Scallop,3,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,14,27.870517,-115.044883,Megastrea_undosa,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,20-Oct,14,27.870517,-115.044883,Megastrea_undosa,2,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,20-Oct,14,27.870517,-115.044883,Lophogorgia_chilensis,2,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,1,20-30,14,27.870517,-115.044883,Lophogorgia_chilensis,3,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,0-10,14,27.870517,-115.044883,Tethya_aurantia,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,20-Oct,14,27.870517,-115.044883,Tethya_aurantia,2,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,20-30,14,27.870517,-115.044883,Tethya_aurantia,3,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,0-10,14,27.870517,-115.044883,Spheciospongia_confoederata,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,20-Oct,14,27.870517,-115.044883,Spheciospongia_confoederata,2,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,20-30,14,27.870517,-115.044883,Spheciospongia_confoederata,3,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,0-10,14,27.870517,-115.044883,Acarnus_erithacus,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,20-Oct,14,27.870517,-115.044883,Acarnus_erithacus,2,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,0-10,14,27.870517,-115.044883,Clavalina_huntsmania,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,20-Oct,14,27.870517,-115.044883,Clavalina_huntsmania,2,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,0-10,14,27.870517,-115.044883,Megastrea_undosa,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,20-Oct,14,27.870517,-115.044883,Megastrea_undosa,2,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,20-30,14,27.870517,-115.044883,megastrea_undosa,3,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,0-10,14,27.870517,-115.044883,Megastrea_undosa,1,Na
+2017,8,14,Piedra_Blanca,Deep,Eliot D.,inverts,2,20-Oct,14,27.870517,-115.044883,Megastrea_undosa,2,Na
+2017,8,14,Piedra_Blanca,Shallow,Rodrigo C.,Algae,1,Na,6,27.869567,-115.04445,Macrocystis_pyrifera_stipes,269,Na
+2017,8,14,Piedra_Blanca,Shallow,Rodrigo C.,Algae,1,Na,6,27.869567,-115.04445,Macrocystis_pyrifera,28,Na
+2017,8,14,Piedra_Blanca,Shallow,Rodrigo C.,Algae,1,Na,6,27.869567,-115.04445,Cystoseira_osmundasea,13,Na
+2017,8,14,Piedra_Blanca,Shallow,Rodrigo C.,Algae,1,Na,6,27.869567,-115.04445,Eisenia_arborea,12,Na
+2017,8,14,Piedra_Blanca,Shallow,Rodrigo C.,Algae,1,Na,6,27.869567,-115.04445,Laminaria_farlowii,35,Na
+2017,8,14,Piedra_Blanca,Shallow,Rodrigo C.,Algae,2,Na,6,27.869567,-115.04445,Macrocystis_pyrifera_stipes,126,Na
+2017,8,14,Piedra_Blanca,Shallow,Rodrigo C.,Algae,2,Na,6,27.869567,-115.04445,Macrocystis_pyrifera,13,Na
+2017,8,14,Piedra_Blanca,Shallow,Rodrigo C.,Algae,2,Na,6,27.869567,-115.04445,Cystoseira_osmundasea,5,Na
+2017,8,14,Piedra_Blanca,Shallow,Rodrigo C.,Algae,2,Na,6,27.869567,-115.04445,Eisenia_arborea,6,Na
+2017,8,14,Piedra_Blanca,Mid,Rodrigo C.,Algae,1,Na,9,27.870367,-115.0444,Macrocystis_pyrifera_stipes,136,Na
+2017,8,14,Piedra_Blanca,Mid,Rodrigo C.,Algae,1,Na,9,27.870367,-115.0444,Macrocystis_pyrifera,36,Na
+2017,8,14,Piedra_Blanca,Mid,Rodrigo C.,Algae,1,Na,9,27.870367,-115.0444,Eisenia_arborea,4,Na
+2017,8,14,Piedra_Blanca,Mid,Rodrigo C.,Algae,2,Na,9,27.870367,-115.0444,Macrocystis_pyrifera_stipes,182,Na
+2017,8,14,Piedra_Blanca,Mid,Rodrigo C.,Algae,2,Na,9,27.870367,-115.0444,Macrocystis_pyrifera,31,Na
+2017,8,14,Piedra_Blanca,Mid,Rodrigo C.,Algae,2,Na,9,27.870367,-115.0444,Eisenia_arborea,1,Na
+2017,8,14,Piedra_Blanca,Deep,Rodrigo C.,Algae,1,Na,13,27.870517,-115.044883,Macrocystis_pyrifera_stipes,68,Na
+2017,8,14,Piedra_Blanca,Deep,Rodrigo C.,Algae,1,Na,13,27.870517,-115.044883,Macrocystis_pyrifera,18,Na
+2017,8,14,Piedra_Blanca,Deep,Rodrigo C.,Algae,1,Na,13,27.870517,-115.044883,Eisenia_arborea,6,Na
+2017,8,14,Piedra_Blanca,Deep,Rodrigo C.,Algae,1,Na,13,27.870517,-115.044883,Laminaria_farlowii,1,Na
+2017,8,14,Piedra_Blanca,Deep,Rodrigo C.,Algae,2,Na,13,27.870517,-115.044883,Macrocystis_pyrifera_stipes,55,Na
+2017,8,14,Piedra_Blanca,Deep,Rodrigo C.,Algae,2,Na,13,27.870517,-115.044883,Macrocystis_pyrifera,14,Na
+2017,8,14,Piedra_Blanca,Deep,Rodrigo C.,Algae,2,Na,13,27.870517,-115.044883,Eisenia_arborea,1,Na
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,1,Na,6,27.869567,-115.04445,Halichoeres_semicinctus,1,10
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,1,Na,6,27.869567,-115.04445,Hypsypops_rubicundus,1,5
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,1,Na,6,27.869567,-115.04445,Hypsypops_rubicundus,1,10
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,1,Na,6,27.869567,-115.04445,Hypsypops_rubicundus,2,5
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,1,Na,6,27.869567,-115.04445,Hypsypops_rubicundus,1,15
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,1,Na,6,27.869567,-115.04445,Embiotoca_jacksoni,1,15
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,1,Na,6,27.869567,-115.04445,Paralabrax_clathratus,2,20
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,1,Na,6,27.869567,-115.04445,Paralabrax_clathratus,1,5
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,1,Na,6,27.869567,-115.04445,Paralabrax_clathratus,1,3
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,1,Na,6,27.869567,-115.04445,Paralabrax_clathratus,2,10
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Halichoeres_semicinctus,1,10
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Hypsypops_rubicundus,1,10
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Hypsypops_rubicundus,1,8
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Hypsypops_rubicundus,1,10
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Hypsypops_rubicundus,1,5
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Paralabrax_clathratus,1,5
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Paralabrax_clathratus,1,8
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Paralabrax_clathratus,1,20
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Paralabrax_clathratus,2,15
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Paralabrax_clathratus,1,18
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Paralabrax_clathratus,1,8
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Paralabrax_clathratus,1,5
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Paralabrax_clathratus,1,10
+2017,8,14,Piedra_Blanca,Shallow,H_ctor H.,fish,2,Na,6,27.869567,-115.04445,Girella_nigricans,1,25
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,Na,9,27.870367,-115.0444,Paralabrax_clathratus,7,30
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,Na,9,27.870367,-115.0444,Hypsypops_rubicundus,1,10
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,Na,9,27.870367,-115.0444,Hypsypops_rubicundus,4,20
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,Na,9,27.870367,-115.0444,Semicossyphus_pulcher,3,20
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,Na,9,27.870367,-115.0444,Halichoeres_semicinctus,10,10
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,Na,9,27.870367,-115.0444,Girella_nigricans,10,10
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,Na,9,27.870367,-115.0444,Girella_nigricans,14,15
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,Na,9,27.870367,-115.0444,Rhinobatos_productus,1,60
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,Na,9,27.870367,-115.0444,Rhinobatos_productus,1,80
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,1,Na,9,27.870367,-115.0444,Rhacochilus_vacca,10,10
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,2,Na,9,27.870367,-115.0444,Paralabrax_clathratus,3,25
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,2,Na,9,27.870367,-115.0444,Halichoeres_semicinctus,3,15
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,2,Na,9,27.870367,-115.0444,Halichoeres_semicinctus,1,10
+2017,8,14,Piedra_Blanca,Mid,H_ctor H.,fish,2,Na,9,27.870367,-115.0444,Rhacochilus_vacca,2,15
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,1,Na,13,27.870517,-115.044883,Semicossyphus_pulcher,1,10
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,1,Na,13,27.870517,-115.044883,Semicossyphus_pulcher,2,45
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,1,Na,13,27.870517,-115.044883,Paralabrax_clathratus,4,25
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,1,Na,13,27.870517,-115.044883,Paralabrax_clathratus,1,40
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,1,Na,13,27.870517,-115.044883,Anisotremus_davidsonii,3,25
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,1,Na,13,27.870517,-115.044883,Anisotremus_davidsonii,1,20
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,1,Na,13,27.870517,-115.044883,Halichoeres_semicinctus,1,10
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,1,Na,13,27.870517,-115.044883,Halichoeres_semicinctus,7,15
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,1,Na,13,27.870517,-115.044883,Embiotoca_jacksoni,20,10
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,13,27.870517,-115.044883,Paralabrax_clathratus,1,20
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,13,27.870517,-115.044883,Paralabrax_clathratus,1,15
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,13,27.870517,-115.044883,Halichoeres_semicinctus,1,9
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,13,27.870517,-115.044883,Halichoeres_semicinctus,1,5
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,13,27.870517,-115.044883,Halichoeres_semicinctus,1,15
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,13,27.870517,-115.044883,Chromis_punctipinnis,10,10
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,13,27.870517,-115.044883,Paralabrax_nebulifer,1,5
+2017,8,14,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,13,27.870517,-115.044883,Girella_nigricans,4,25
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,5,27.869567,-115.04445,Oxyjulis_californica,3,5
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,5,27.869567,-115.04445,Oxyjulis_californica,1,7
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,5,27.869567,-115.04445,Halichoeres_semicinctus,3,12
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,5,27.869567,-115.04445,Halichoeres_semicinctus,1,20
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,5,27.869567,-115.04445,Semicossyphus_pulcher,1,35
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,5,27.869567,-115.04445,Semicossyphus_pulcher,1,17
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,5,27.869567,-115.04445,Paralabrax_clathratus,3,20
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,5,27.869567,-115.04445,Paralabrax_clathratus,2,10
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,5,27.869567,-115.04445,Oxyjulis_californica,18,10
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,5,27.869567,-115.04445,Oxyjulis_californica,5,5
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,5,27.869567,-115.04445,Halichoeres_semicinctus,1,15
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,5,27.869567,-115.04445,Halichoeres_semicinctus,2,25
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,5,27.869567,-115.04445,Halichoeres_semicinctus,1,20
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,5,27.869567,-115.04445,Heterodontus_francisci,1,55
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,5,27.869567,-115.04445,Paralabrax_clathratus,1,22
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,5,27.869567,-115.04445,Paralabrax_clathratus,1,32
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,5,27.869567,-115.04445,Embiotoca_lateralis,1,28
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,5,27.869567,-115.04445,Hypsypops_rubicundus,2,20
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,5,27.869567,-115.04445,Hypsypops_rubicundus,1,15
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,5,27.869567,-115.04445,Hypsypops_rubicundus,1,30
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,11,27.870367,-115.0444,Medialuna_californiensis,1,35
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,11,27.870367,-115.0444,Medialuna_californiensis,1,20
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,11,27.870367,-115.0444,Chromis_punctipinnis,2,15
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,11,27.870367,-115.0444,Chromis_punctipinnis,3,12
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,11,27.870367,-115.0444,Semicossyphus_pulcher,2,40
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,11,27.870367,-115.0444,Semicossyphus_pulcher,1,50
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,11,27.870367,-115.0444,Paralabrax_clathratus,4,30
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,11,27.870367,-115.0444,Paralabrax_clathratus,4,25
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,11,27.870367,-115.0444,Paralabrax_clathratus,3,37
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,11,27.870367,-115.0444,Paralabrax_clathratus,3,40
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,11,27.870367,-115.0444,Paralabrax_clathratus,1,15
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,11,27.870367,-115.0444,Rhacochilus_vacca,1,32
+2017,10,23,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Halichoeres_semicinctus,1,20
+2017,10,23,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Paralabrax_clathratus,2,15
+2017,10,23,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Paralabrax_clathratus,11,35
+2017,10,23,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Hypsypops_rubicundus,2,25
+2017,10,23,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,16,27.870517,-115.044883,Halichoeres_semicinctus,3,25
+2017,10,23,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,16,27.870517,-115.044883,Halichoeres_semicinctus,1,28
+2017,10,23,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,16,27.870517,-115.044883,Paralabrax_clathratus,12,20
+2017,10,23,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,16,27.870517,-115.044883,Paralabrax_clathratus,3,14
+2017,10,23,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,16,27.870517,-115.044883,Paralabrax_clathratus,4,26
+2017,10,23,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,16,27.870517,-115.044883,Paralabrax_clathratus,1,10
+2017,10,23,Piedra_Blanca,Deep,H_ctor H.,fish,2,Na,16,27.870517,-115.044883,Paralabrax_clathratus,2,33
+2017,10,23,Piedra_Blanca,Shallow,Fernanda A. ,Algae,1,Na,6,27.869567,-115.04445,Macrocystis_pyrifera,31,Na
+2017,10,23,Piedra_Blanca,Shallow,Fernanda A. ,Algae,1,Na,6,27.869567,-115.04445,Macrocystis_pyrifera_stipes,345,Na
+2017,10,23,Piedra_Blanca,Shallow,Fernanda A. ,Algae,1,Na,6,27.869567,-115.04445,Eisenia_arborea,26,Na
+2017,10,23,Piedra_Blanca,Shallow,Fernanda A. ,Algae,1,Na,6,27.869567,-115.04445,sargassum_muticum,6,Na
+2017,10,23,Piedra_Blanca,Shallow,Fernanda A. ,Algae,2,Na,6,27.869567,-115.04445,Macrocystis_pyrifera,46,Na
+2017,10,23,Piedra_Blanca,Shallow,Fernanda A. ,Algae,2,Na,6,27.869567,-115.04445,Macrocystis_pyrifera_stipes,688,Na
+2017,10,23,Piedra_Blanca,Shallow,Fernanda A. ,Algae,2,Na,6,27.869567,-115.04445,Eisenia_arborea,36,Na
+2017,10,23,Piedra_Blanca,Shallow,Fernanda A. ,Algae,2,Na,6,27.869567,-115.04445,Undaria_pinnatifida,4,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,Algae,1,Na,10,27.870367,-115.0444,Macrocystis_pyrifera,41,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,Algae,1,Na,10,27.870367,-115.0444,Macrocystis_pyrifera_stipes,333,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,Algae,1,Na,10,27.870367,-115.0444,Eisenia_arborea,3,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,Algae,2,Na,10,27.870367,-115.0444,Macrocystis_pyrifera,59,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,Algae,2,Na,10,27.870367,-115.0444,Macrocystis_pyrifera_stipes,330,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,Algae,1,Na,16,27.870367,-115.0444,Macrocystis_pyrifera,5,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,Algae,1,Na,16,27.870367,-115.0444,Macrocystis_pyrifera_stipes,15,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,Algae,1,Na,16,27.870367,-115.0444,sargassum_muticum,3,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,Algae,1,Na,16,27.870367,-115.0444,Eisenia_arborea,5,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,Algae,2,Na,16,27.870367,-115.0444,Macrocystis_pyrifera,12,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,Algae,2,Na,16,27.870367,-115.0444,Macrocystis_pyrifera_stipes,48,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Cucumaria_salma,10,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Muricea_fruticosa,2,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Panulirus_innterruptus         ,1,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Megastrea_undosa,4,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Spheciospongia_confoederata,1,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Spheciospongia_confoederata,1,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Acarnus_erithacus,8,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Didemnum_carnulentum,2,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Clavalina_huntsmania,1,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Muricea_californica,2,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Haliotis_spp,1,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Spheciospongia_confoederata,3,Na
+2017,10,23,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Acarnus_erithacus,5,Na
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Muricea_californica,10,Na
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Muricea_fruticosa,10,Na
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Lophogorgia_chilensis,2,Na
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Megastrea_undosa,27,Na
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Centrostephanus_coronatus,5,Na
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Tethya_aurantia,2,Na
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Scallop,1,Na
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Acarnus_erithacus,32,Na
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Cucumaria_salma,17,Na
+2017,10,23,Piedra_Blanca,Mid,Eliot D.,inverts,1,Na,10,27.870367,-115.0444,Craniella_spp,6,Na
+2017,10,23,Piedra_Blanca,Deep,Eliot D.,inverts,1,Na,16,27.870517,-115.044883,Muricea_californica,0,Na
+2017,10,23,Piedra_Blanca,Deep,Eliot D.,inverts,1,Na,16,27.870517,-115.044883,Muricea_fruticosa,0,Na
+2017,10,23,Piedra_Blanca,Deep,Eliot D.,inverts,1,Na,16,27.870517,-115.044883,Lophogorgia_chilensis,0,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,5,27.869567,-115.04445,Bedrock_1_m,26,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,5,27.869567,-115.04445,Cobble_10cm,4,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,5,27.869567,-115.04445,0_10 cm,2,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,5,27.869567,-115.04445,10 cm_1 m,6,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,5,27.869567,-115.04445,1 m_2 m,21,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,5,27.869567,-115.04445,2 m,1,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,5,27.869567,-115.04445,Sediment_mud,2,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,5,27.869567,-115.04445,Dead_kelp_holdfast_any,1,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,5,27.869567,-115.04445,Crustose_coralline_algae ,4,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,5,27.869567,-115.04445,Articulated_coralline_algae ,15,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,5,27.869567,-115.04445,Cystoseira_osmundasea,3,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,5,27.869567,-115.04445,Phragmatopoma   ,1,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,5,27.869567,-115.04445,Bedrock_1_m,25,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,5,27.869567,-115.04445,Boulder_10_cm_1_m,1,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,5,27.869567,-115.04445,Cobble_10cm,1,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,5,27.869567,-115.04445,sand,3,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,5,27.869567,-115.04445,0_10 cm,22,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,5,27.869567,-115.04445,10 cm_1 m,5,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,5,27.869567,-115.04445,1 m_2 m,3,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,5,27.869567,-115.04445,Drift_algae       ,1,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,5,27.869567,-115.04445,Sediment_mud,4,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,5,27.869567,-115.04445,Dead_kelp_holdfast_any,1,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,5,27.869567,-115.04445,Crustose_coralline_algae ,3,Na
+2017,10,23,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,5,27.869567,-115.04445,Articulated_coralline_algae ,22,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Bedrock_1_m,22,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Boulder_10_cm_1_m,1,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Cobble_10cm,1,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,sand,6,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,0_10 cm,5,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,10 cm_1 m,12,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,1 m_2 m,12,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,2 m,1,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Bare_rock,1,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Shell_debris,5,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Crustose_coralline_algae ,7,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Articulated_coralline_algae ,8,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Dictyotales_spp,4,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Macrocystis_holdfast_live,3,Na
+2017,10,23,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,10,27.870367,-115.0444,Sponge,2,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,Cobble_10cm,2,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,sand,9,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,0_10 cm,12,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,10 cm_1 m,15,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,1 m_2 m,3,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,Shell_debris,4,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,Sediment_mud,6,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,Leaf_blade_unbranched,1,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,Encrusting_red,11,Na
+2017,10,23,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,Crustose_coralline_algae ,8,Na
+2017,10,23,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Cobble_10cm,5,Na
+2017,10,23,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,sand,25,Na
+2017,10,23,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,0_10 cm,29,Na
+2017,10,23,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,1 m_2 m,1,Na
+2017,10,23,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Bare_rock,2,Na
+2017,10,23,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Bare_sand,21,Na
+2017,10,23,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Articulated_coralline_algae ,3,Na
+2017,10,23,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Shell_debris,4,Na
+2017,10,23,Piedra_Blanca,Deep,Daniel D.,upc,2,Na,16,27.870517,-115.044883,Bedrock_1_m,3,Na
+2017,10,23,Piedra_Blanca,Deep,Daniel D.,upc,2,Na,16,27.870517,-115.044883,Cobble_10cm,7,Na
+2017,10,23,Piedra_Blanca,Deep,Daniel D.,upc,2,Na,16,27.870517,-115.044883,sand,20,Na
+2017,10,23,Piedra_Blanca,Deep,Daniel D.,upc,2,Na,16,27.870517,-115.044883,0_10 cm,30,Na
+2017,10,23,Piedra_Blanca,Deep,Daniel D.,upc,2,Na,16,27.870517,-115.044883,Dead_kelp_holdfast_any,10,Na
+2017,10,23,Piedra_Blanca,Deep,Daniel D.,upc,2,Na,16,27.870517,-115.044883,Sediment_mud,3,Na
+2017,10,23,Piedra_Blanca,Deep,Daniel D.,upc,2,Na,16,27.870517,-115.044883,Bushy_cylindrical_branches,3,Na
+2017,10,23,Piedra_Blanca,Deep,Daniel D.,upc,2,Na,16,27.870517,-115.044883,Crustose_coralline_algae ,1,Na
+2017,10,23,Piedra_Blanca,Deep,Daniel D.,upc,2,Na,16,27.870517,-115.044883,Articulated_coralline_algae ,3,Na
+2017,10,23,Piedra_Blanca,Deep,Daniel D.,upc,2,Na,16,27.870517,-115.044883,Drift_algae       ,10,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,1,0-10,6,27.869567,-115.04445,Macrocystis_pyrifera,6,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,1,0-10,6,27.869567,-115.04445,Macrocystis_pyrifera_stipes,78,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,1,0-10,6,27.869567,-115.04445,Juvenile_laminariales,1,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,1,0-10,6,27.869567,-115.04445,Cystoseira_osmundasea,1,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,1,0-10,6,27.869567,-115.04445,Eisenia_arborea,10,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,1,20-Oct,6,27.869567,-115.04445,Macrocystis_pyrifera,7,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,1,20-Oct,6,27.869567,-115.04445,Macrocystis_pyrifera_stipes,102,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,1,20-Oct,6,27.869567,-115.04445,Eisenia_arborea,10,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,1,20-30,6,27.869567,-115.04445,Macrocystis_pyrifera,18,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,1,20-30,6,27.869567,-115.04445,Macrocystis_pyrifera_stipes,218,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,1,20-30,6,27.869567,-115.04445,Cystoseira_osmundasea,4,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,1,20-30,6,27.869567,-115.04445,Eisenia_arborea,14,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,2,0-10,6,27.869567,-115.04445,Macrocystis_pyrifera,16,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,2,0-10,6,27.869567,-115.04445,Macrocystis_pyrifera_stipes,119,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,2,0-10,6,27.869567,-115.04445,Juvenile_laminariales,3,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,2,0-10,6,27.869567,-115.04445,Cystoseira_osmundasea,3,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,2,0-10,6,27.869567,-115.04445,Eisenia_arborea,11,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,2,20-Oct,6,27.869567,-115.04445,Macrocystis_pyrifera,9,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,2,20-Oct,6,27.869567,-115.04445,Macrocystis_pyrifera_stipes,86,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,2,20-Oct,6,27.869567,-115.04445,Eisenia_arborea,13,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,2,20-30,6,27.869567,-115.04445,Macrocystis_pyrifera,9,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,2,20-30,6,27.869567,-115.04445,Macrocystis_pyrifera_stipes,63,Na
+2018,3,3,Piedra_Blanca,Shallow,Carlos H.,Algae,2,20-30,6,27.869567,-115.04445,Eisenia_arborea,7,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,1,0-10,10,27.870367,-115.0444,Macrocystis_pyrifera,24,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,1,0-10,10,27.870367,-115.0444,Macrocystis_pyrifera_stipes,206,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,1,0-10,10,27.870367,-115.0444,Juvenile_laminariales,2,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,1,0-10,10,27.870367,-115.0444,Eisenia_arborea,1,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,1,20-Oct,10,27.870367,-115.0444,Macrocystis_pyrifera,17,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,1,20-Oct,10,27.870367,-115.0444,Macrocystis_pyrifera_stipes,203,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,1,20-Oct,10,27.870367,-115.0444,Eisenia_arborea,1,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,1,20-30,10,27.870367,-115.0444,Macrocystis_pyrifera,12,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,1,20-30,10,27.870367,-115.0444,Macrocystis_pyrifera_stipes,112,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,2,0-10,10,27.870367,-115.0444,Macrocystis_pyrifera,7,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,2,0-10,10,27.870367,-115.0444,Macrocystis_pyrifera_stipes,90,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,2,0-10,10,27.870367,-115.0444,Juvenile_laminariales,2,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,2,0-10,10,27.870367,-115.0444,Eisenia_arborea,2,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,2,20-Oct,10,27.870367,-115.0444,Macrocystis_pyrifera,29,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,2,20-Oct,10,27.870367,-115.0444,Macrocystis_pyrifera_stipes,235,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,2,20-30,10,27.870367,-115.0444,Macrocystis_pyrifera,13,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,2,20-30,10,27.870367,-115.0444,Macrocystis_pyrifera_stipes,12,Na
+2018,3,3,Piedra_Blanca,Mid,Carlos H.,Algae,2,20-30,10,27.870367,-115.0444,Eisenia_arborea,24,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,0-10,16,27.870517,-115.044883,Macrocystis_pyrifera,4,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,0-10,16,27.870517,-115.044883,Macrocystis_pyrifera_stipes,18,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,0-10,16,27.870517,-115.044883,Cystoseira_osmundasea,1,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,0-10,16,27.870517,-115.044883,Eisenia_arborea,3,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,0-10,16,27.870517,-115.044883,Sargassum_muticum,1,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,20-Oct,16,27.870517,-115.044883,Macrocystis_pyrifera,5,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,20-Oct,16,27.870517,-115.044883,Macrocystis_pyrifera_stipes,66,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,20-Oct,16,27.870517,-115.044883,Eisenia_arborea,5,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,20-Oct,16,27.870517,-115.044883,Sargassum_muticum,1,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,20-30,16,27.870517,-115.044883,Macrocystis_pyrifera,15,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,20-30,16,27.870517,-115.044883,Macrocystis_pyrifera_stipes,130,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,20-30,16,27.870517,-115.044883,Juvenile_laminariales,1,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,20-30,16,27.870517,-115.044883,Cystoseira_osmundasea,2,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,20-30,16,27.870517,-115.044883,Eisenia_arborea,1,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,1,20-30,16,27.870517,-115.044883,Sargassum_muticum,1,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,2,0-10,16,27.870517,-115.044883,Macrocystis_pyrifera,4,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,2,0-10,16,27.870517,-115.044883,Macrocystis_pyrifera_stipes,18,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,2,0-10,16,27.870517,-115.044883,Cystoseira_osmundasea,2,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,2,0-10,16,27.870517,-115.044883,Eisenia_arborea,2,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,2,0-10,16,27.870517,-115.044883,Sargassum_muticum,1,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,2,20-Oct,16,27.870517,-115.044883,Macrocystis_pyrifera,13,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,2,20-Oct,16,27.870517,-115.044883,Macrocystis_pyrifera_stipes,63,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,2,20-Oct,16,27.870517,-115.044883,Juvenile_laminariales,9,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,2,20-Oct,16,27.870517,-115.044883,Eisenia_arborea,6,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,2,20-30,16,27.870517,-115.044883,Macrocystis_pyrifera,1,Na
+2018,3,3,Piedra_Blanca,Deep,Carlos H.,Algae,2,20-30,16,27.870517,-115.044883,Macrocystis_pyrifera_stipes,9,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Bedrock_1_m,17,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Boulder_10_cm_1_m,1,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Cobble_10cm,10,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,sand,2,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,0_10 cm,10,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,10 cm_1 m,19,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Bushy_cylindrical_branches,5,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Bare_rock,1,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Sediment_mud,7,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Crustose_coralline_algae ,12,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Articulated_coralline_algae ,6,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,16,27.870517,-115.044883,Macrocystis_holdfast_live,2,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,16,27.870517,-115.044883,Bedrock_1_m,10,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,16,27.870517,-115.044883,Boulder_10_cm_1_m,1,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,16,27.870517,-115.044883,Cobble_10cm,7,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,16,27.870517,-115.044883,sand,2,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,16,27.870517,-115.044883,0_10 cm,9,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,16,27.870517,-115.044883,10 cm_1 m,11,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,16,27.870517,-115.044883,Bushy_cylindrical_branches,4,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,16,27.870517,-115.044883,Bare_rock,1,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,16,27.870517,-115.044883,Bare_sand,1,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,16,27.870517,-115.044883,Sediment_mud,4,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,16,27.870517,-115.044883,Crustose_coralline_algae ,8,Na
+2018,3,3,Piedra_Blanca,Deep,Fernanda A. ,upc,2,Na,16,27.870517,-115.044883,Articulated_coralline_algae ,6,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,Bedrock_1_m,15,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,Boulder_10_cm_1_m,2,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,Cobble_10cm,4,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,sand,5,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,0_10 cm,14,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,10 cm_1 m,13,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,1 m_2 m,2,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,Drift_algae       ,2,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,Shell_debris,5,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,Lacy_filamentous_dense ,2,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,Crustose_coralline_algae ,10,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,Articulated_coralline_algae ,8,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,Egregia_menziesii,3,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,1,Na,12,27.870367,-115.0444,Macrocystis_holdfast_live,2,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,Bedrock_1_m,17,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,Boulder_10_cm_1_m,1,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,Cobble_10cm,5,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,sand,6,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,0_10 cm,9,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,10 cm_1 m,17,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,1 m_2 m,4,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,Bare_rock,1,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,Shell_debris,6,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,Lacy_filamentous_dense ,1,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,Crustose_coralline_algae ,5,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,Articulated_coralline_algae ,10,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,Egregia_menziesii,2,Na
+2018,3,3,Piedra_Blanca,Mid,Fernanda A. ,upc,2,Na,12,27.870367,-115.0444,Macrocystis_holdfast_live,3,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,8,27.869567,-115.04445,Bedrock_1_m,13,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,8,27.869567,-115.04445,Cobble_10cm,8,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,8,27.869567,-115.04445,sand,7,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,8,27.869567,-115.04445,0_10 cm,14,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,8,27.869567,-115.04445,10 cm_1 m,13,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,8,27.869567,-115.04445,Shell_debris,6,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,8,27.869567,-115.04445,Branch_flat_branching ,1,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,8,27.869567,-115.04445,Lacy_filamentous_dense ,1,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,8,27.869567,-115.04445,Crustose_coralline_algae ,13,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,8,27.869567,-115.04445,Articulated_coralline_algae ,4,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,8,27.869567,-115.04445,Egregia_menziesii,1,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,1,Na,8,27.869567,-115.04445,Macrocystis_holdfast_live,2,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,Bedrock_1_m,13,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,Boulder_10_cm_1_m,4,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,Cobble_10cm,2,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,sand,9,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,0_10 cm,11,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,10 cm_1 m,15,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,1 m_2 m,3,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,Drift_algae       ,3,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,Shell_debris,9,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,Bushy_cylindrical_branches,4,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,Lacy_filamentous_dense ,1,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,Crustose_coralline_algae ,5,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,Articulated_coralline_algae ,5,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,Egregia_menziesii,1,Na
+2018,3,3,Piedra_Blanca,Shallow,Fernanda A. ,upc,2,Na,8,27.869567,-115.04445,Macrocystis_holdfast_live,2,Na
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Panulirus_innterruptus         ,7,Na
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Lithopoma_spp,3,Na
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Centrostephanus_coronatus,2,Na
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Acarnus_erithacus,3,Na
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Urticina_picivora,2,Na
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,inverts,1,Na,5,27.869567,-115.04445,Muricea californica ,5,Na
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Panulirus_innterruptus         ,3,Na
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Lithopoma_spp,57,Na
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Acarnus_erithacus,3,Na
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Lophogorgia_chiliesnsis,1,Na
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,inverts,2,Na,5,27.869567,-115.04445,Muricea californica ,2,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,0-10,9,27.870367,-115.0444,Panulirus_innterruptus         ,5,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,0-10,9,27.870367,-115.0444,Lithopoma_spp,19,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Panulirus_innterruptus         ,1,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,0-10,9,27.870367,-115.0444,Muricea californica ,4,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Lithopoma_spp,5,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Leucetta_losangelensis,2,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Muricea californica ,2,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-Oct,9,27.870367,-115.0444,Acarnus_erithacus,11,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Panulirus_innterruptus         ,7,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Lithopoma_spp,7,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Centrostephanus_coronatus,6,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Muricea californica ,2,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Clavalina_huntsmania,3,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Acarnus_erithacus,1,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,1,20-30,9,27.870367,-115.0444,Cucumaria_salma,8,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,0-10,9,27.870367,-115.0444,Panulirus_innterruptus         ,1,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,0-10,9,27.870367,-115.0444,Centrostephanus_coronatus,2,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,0-10,9,27.870367,-115.0444,Acarnus_erithacus,4,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Panulirus_innterruptus         ,7,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Centrostephanus_coronatus,6,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Muricea californica ,3,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-Oct,9,27.870367,-115.0444,Acarnus_erithacus,5,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Crassedoma_giganteum,1,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Eucaria_thouarsii,1,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Lophogorgia_chiliesnsis,3,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Panulirus_innterruptus         ,3,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Centrostephanus_coronatus,6,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Muricea californica ,3,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Acarnus_erithacus,6,Na
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,inverts,2,20-30,9,27.870367,-115.0444,Cucumaria_salma,7,Na
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,13,27.870517,-115.044883,Parastichopus_californicus,1,Na
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,13,27.870517,-115.044883,Panulirus_innterruptus         ,1,Na
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,13,27.870517,-115.044883,Megathura,4,Na
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,inverts,1,0-10,13,27.870517,-115.044883,Tethya_aurantia,4,Na
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,inverts,1,20-Oct,13,27.870517,-115.044883,Megathura,1,Na
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,inverts,2,0-10,13,27.870517,-115.044883,Centrostephanus_coronatus,1,Na
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,inverts,2,20-30,13,27.870517,-115.044883,Lithopoma_spp,1,Na
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,inverts,2,20-30,13,27.870517,-115.044883,Acarnus_erithacus,1,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,Bedrock_1_m,6,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,Cobble_10cm,2,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,sand,20,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,0_10 cm,23,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,10 cm_1 m,4,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,Bare_rock,1,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,Bare_sand,11,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,Branch_flat_branching ,2,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,Bushy_cylindrical_branches,7,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,Crustose_coralline_algae ,3,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,Dictyotales_spp,1,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,Macrocystis_holdfast_live,1,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,Laminariales_holdfast_live,1,Na
+2018,3,2,Piedra_Blanca,Deep,Fernanda A. ,upc,1,Na,15,27.870517,-115.044883,Sponge,1,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,1,Na,10,27.870367,-115.0444,Bedrock_1_m,19,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,1,Na,10,27.870367,-115.0444,Boulder_10_cm_1_m,1,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,1,Na,10,27.870367,-115.0444,Cobble_10cm,1,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,1,Na,10,27.870367,-115.0444,0_10 cm,7,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,1,Na,10,27.870367,-115.0444,10 cm_1 m,19,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,1,Na,10,27.870367,-115.0444,Turf_red_turf_2_cm,15,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,1,Na,10,27.870367,-115.0444,Crustose_coralline_algae ,8,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,1,Na,10,27.870367,-115.0444,Macrocystis_holdfast_live,2,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,1,Na,10,27.870367,-115.0444,Balanophylia_elegans,1,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,Bedrock_1_m,22,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,Boulder_10_cm_1_m,3,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,sand,1,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,10 cm_1 m,14,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,1 m_2 m,10,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,Drift_algae       ,2,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,Turf_red_turf_2_cm,7,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,Crustose_coralline_algae ,12,Na
+2018,3,2,Piedra_Blanca,Mid,Daniel D.,upc,2,Na,10,27.870367,-115.0444,Macrocystis_holdfast_live,5,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,6,27.869567,-115.04445,Bedrock_1_m,26,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,6,27.869567,-115.04445,0_10 cm,1,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,6,27.869567,-115.04445,10 cm_1 m,23,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,6,27.869567,-115.04445,1 m_2 m,2,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,6,27.869567,-115.04445,Turf_red_turf_2_cm,1,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,6,27.869567,-115.04445,Crustose_coralline_algae ,5,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,6,27.869567,-115.04445,Articulated_coralline_algae ,14,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,1,Na,6,27.869567,-115.04445,Macrocystis_holdfast_live,2,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,Tubeworm_other_solitary,3,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,Bedrock_1_m,20,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,Boulder_10_cm_1_m,1,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,Cobble_10cm,6,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,sand,3,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,0_10 cm,1,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,10 cm_1 m,7,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,1 m_2 m,11,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,2 m,8,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,Drift_algae       ,1,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,Juvenile_laminariales,4,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,Lacy_filamentous_dense ,4,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,Crustose_coralline_algae ,4,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,Articulated_coralline_algae ,12,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,Desmarestia_spp,1,Na
+2018,3,2,Piedra_Blanca,Shallow,Daniel D.,upc,2,Na,6,27.869567,-115.04445,Macrocystis_holdfast_live,2,Na
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,6,27.869567,-115.04445,Oxyjulis_californica,24,15
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,6,27.869567,-115.04445,Embiotoca_lateralis,5,20
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,6,27.869567,-115.04445,Halichoeres_semicinctus,4,20
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,6,27.869567,-115.04445,Semicossyphus_pulcher,1,40
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,6,27.869567,-115.04445,Semicossyphus_pulcher,2,20
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,6,27.869567,-115.04445,Chromis_punctipinnis,11,25
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,6,27.869567,-115.04445,Chromis_punctipinnis,14,10
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,6,27.869567,-115.04445,Paralabrax_clathratus,4,15
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,6,27.869567,-115.04445,Paralabrax_clathratus,2,30
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,6,27.869567,-115.04445,Paralabrax_clathratus,1,40
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,6,27.869567,-115.04445,Rhacochilus_vacca,1,30
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,1,Na,6,27.869567,-115.04445,Heterodontus_francisci,1,63
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,6,27.869567,-115.04445,Heterostichus_rostratus,1,20
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,6,27.869567,-115.04445,Halichoeres_semicinctus,1,22
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,6,27.869567,-115.04445,Semicossyphus_pulcher,1,45
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,6,27.869567,-115.04445,Chromis_punctipinnis,4,12
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,6,27.869567,-115.04445,Paralabrax_clathratus,5,10
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,6,27.869567,-115.04445,Paralabrax_clathratus,1,20
+2018,3,2,Piedra_Blanca,Shallow,Eliot D.,fish,2,Na,6,27.869567,-115.04445,Embiotoca_lateralis,1,20
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,10,27.870367,-115.0444,Embiotoca_lateralis,2,20
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,10,27.870367,-115.0444,Semicossyphus_pulcher,4,50
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,10,27.870367,-115.0444,Halichoeres_semicinctus,1,15
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,10,27.870367,-115.0444,Halichoeres_semicinctus,2,20
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,10,27.870367,-115.0444,Paralabrax_clathratus,2,25
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,10,27.870367,-115.0444,Paralabrax_clathratus,3,20
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,10,27.870367,-115.0444,Paralabrax_clathratus,1,30
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,10,27.870367,-115.0444,Chromis_punctipinnis,14,15
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,10,27.870367,-115.0444,Rhacochilus_vacca,4,31
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,10,27.870367,-115.0444,Hypsypops_rubicundus,1,30
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,1,Na,10,27.870367,-115.0444,Hypsypops_rubicundus,1,20
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,2,Na,10,27.870367,-115.0444,Embiotoca_lateralis,2,15
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,2,Na,10,27.870367,-115.0444,Semicossyphus_pulcher,2,51
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,2,Na,10,27.870367,-115.0444,Chromis_punctipinnis,20,15
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,2,Na,10,27.870367,-115.0444,Paralabrax_clathratus,2,25
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,2,Na,10,27.870367,-115.0444,Paralabrax_clathratus,1,35
+2018,3,2,Piedra_Blanca,Mid,Eliot D.,fish,2,Na,10,27.870367,-115.0444,Hypsypops_rubicundus,2,25
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Oxyjulis_californica,3,10
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Oxyjulis_californica,1,5
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Halichoeres_semicinctus,1,20
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Halichoeres_semicinctus,1,10
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Medialuna_californiensis,1,20
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Semicossyphus_pulcher,1,20
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Semicossyphus_pulcher,1,15
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Paralabrax_nebulifer,1,25
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Paralabrax_clathratus,3,32
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,1,Na,16,27.870517,-115.044883,Paralabrax_clathratus,4,25
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,2,Na,16,27.870517,-115.044883,Urolopus_concentricus,1,32
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,2,Na,16,27.870517,-115.044883,Medialuna_californiensis,4,20
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,2,Na,16,27.870517,-115.044883,Semicossyphus_pulcher,1,20
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,2,Na,16,27.870517,-115.044883,Semicossyphus_pulcher,1,40
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,2,Na,16,27.870517,-115.044883,Semicossyphus_pulcher,1,30
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,2,Na,16,27.870517,-115.044883,Paralabrax_clathratus,10,25
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,2,Na,16,27.870517,-115.044883,Paralabrax_clathratus,11,30
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,2,Na,16,27.870517,-115.044883,Paralabrax_clathratus,5,25
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,2,Na,16,27.870517,-115.044883,Paralabrax_clathratus,1,40
+2018,3,2,Piedra_Blanca,Deep,Eliot D.,fish,2,Na,16,27.870517,-115.044883,Hypsypops_rubicundus,1,30

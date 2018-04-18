@@ -1,0 +1,990 @@
+Year,Month,Day,Site,Level,Observer,Transect_type,Transect_number,Transect_section,Depth_m,Lat,Long,Genusspecies,Frequency,Size_cm
+2016,5,21,Gavilanes,Mid,Nur A.,algae,1,NA,10,27.855283,-115.075783,Sargassum_muticum,27,Na
+2016,5,21,Gavilanes,Mid,Nur A.,algae,1,NA,10,27.855283,-115.075783,Eisenia_arborea,1,Na
+2016,5,21,Gavilanes,Mid,Nur A.,algae,2,NA,10,27.855283,-115.075783,Eisenia_arborea,12,Na
+2016,5,21,Gavilanes,Mid,Nur A.,algae,2,NA,10,27.855283,-115.075783,Sargassum_muticum,82,Na
+2016,5,21,Gavilanes,Mid,Memo T.,inverts,1,0-10,10,27.855283,-115.075783,Lithopoma_spp,2,Na
+2016,5,21,Gavilanes,Mid,Memo T.,inverts,1,20-Oct,10,27.855283,-115.075783,Lithopoma_spp,1,Na
+2016,5,21,Gavilanes,Mid,Memo T.,inverts,1,20-30,10,27.855283,-115.075783,Lithopoma_spp,4,Na
+2016,5,21,Gavilanes,Mid,Memo T.,inverts,1,0-10,10,27.855283,-115.075783,Muricea_fruticosa,1,Na
+2016,5,21,Gavilanes,Mid,Memo T.,inverts,1,20-30,10,27.855283,-115.075783,Panulirus_innterruptus         ,2,Na
+2016,5,21,Gavilanes,Mid,Memo T.,inverts,2,0-10,10,27.855283,-115.075783,Lithopoma_spp,3,Na
+2016,5,21,Gavilanes,Mid,Memo T.,inverts,2,20-Oct,10,27.855283,-115.075783,Lithopoma_spp,5,Na
+2016,5,21,Gavilanes,Mid,Memo T.,inverts,2,20-30,10,27.855283,-115.075783,Lithopoma_spp,1,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,0-10,10,27.855283,-115.075783,Bedrock_1_m,6,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,0-10,10,27.855283,-115.075783,Sand,4,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,0-10,10,27.855283,-115.075783,Sargassum_muticum,2,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,0-10,10,27.855283,-115.075783,0_10 cm,10,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,0-10,10,27.855283,-115.075783,Bushy_cylindrical_branches,1,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,0-10,10,27.855283,-115.075783,Encrusting_red,2,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,0-10,10,27.855283,-115.075783,Crustose_coralline_algae ,1,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-Oct,10,27.855283,-115.075783,Bedrock_1_m,8,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-Oct,10,27.855283,-115.075783,Sand,2,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-Oct,10,27.855283,-115.075783,Sargassum_muticum,2,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-Oct,10,27.855283,-115.075783,Leaf_blade_unbranched,1,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-Oct,10,27.855283,-115.075783,Crustose_coralline_algae ,3,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-Oct,10,27.855283,-115.075783,Bushy_cylindrical_branches,2,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-Oct,10,27.855283,-115.075783,0_10 cm,6,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-Oct,10,27.855283,-115.075783,10 cm_1 m,4,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-30,10,27.855283,-115.075783,Sand,3,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-30,10,27.855283,-115.075783,Bedrock_1_m,7,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-30,10,27.855283,-115.075783,Crustose_coralline_algae ,4,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-30,10,27.855283,-115.075783,Bushy_cylindrical_branches,3,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-30,10,27.855283,-115.075783,0_10 cm,8,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-30,10,27.855283,-115.075783,10 cm_1 m,1,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,1,20-30,10,27.855283,-115.075783,1 m_2 m,1,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,0-10,10,27.855283,-115.075783,Sand,6,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,0-10,10,27.855283,-115.075783,Bedrock_1_m,4,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,0-10,10,27.855283,-115.075783,Encrusting_red,1,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,0-10,10,27.855283,-115.075783,Crustose_coralline_algae ,3,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,0-10,10,27.855283,-115.075783,0_10 cm,10,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,20-Oct,10,27.855283,-115.075783,0_10 cm,9,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,20-Oct,10,27.855283,-115.075783,10 cm_1 m,1,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,20-Oct,10,27.855283,-115.075783,Crustose_coralline_algae ,2,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,20-Oct,10,27.855283,-115.075783,Sargassum_muticum,1,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,20-Oct,10,27.855283,-115.075783,Sand,7,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,20-Oct,10,27.855283,-115.075783,Bedrock_1_m,3,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,20-30,10,27.855283,-115.075783,Bedrock_1_m,1,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,20-30,10,27.855283,-115.075783,Sand,9,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,20-30,10,27.855283,-115.075783,Sargassum_muticum,2,Na
+2016,5,21,Gavilanes,Mid,Memo T.,upc,2,20-30,10,27.855283,-115.075783,0_10 cm,10,Na
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,0-10,10,27.855283,-115.075783,Semicossyphus_pulcher,1,20
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,1,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,4,20
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,5,5
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,5,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,0-10,10,27.855283,-115.075783,Hypsypops_rubicundus,2,15
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-Oct,10,27.855283,-115.075783,Semicossyphus_pulcher,1,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-Oct,10,27.855283,-115.075783,Semicossyphus_pulcher,1,20
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-Oct,10,27.855283,-115.075783,Paralabrax_clathratus,2,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-Oct,10,27.855283,-115.075783,Paralabrax_clathratus,7,15
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-Oct,10,27.855283,-115.075783,Halichoeres_semicinctus,5,5
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-Oct,10,27.855283,-115.075783,Halichoeres_semicinctus,5,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-Oct,10,27.855283,-115.075783,Hypsypops_rubicundus,1,20
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-Oct,10,27.855283,-115.075783,Hypsypops_rubicundus,1,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-Oct,10,27.855283,-115.075783,Anisotremus_davidsonii,3,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-Oct,10,27.855283,-115.075783,Chromis_punctipinnis,1,5
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-30,10,27.855283,-115.075783,Semicossyphus_pulcher,1,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-30,10,27.855283,-115.075783,Paralabrax_clathratus,5,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-30,10,27.855283,-115.075783,Paralabrax_clathratus,1,11
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-30,10,27.855283,-115.075783,Paralabrax_clathratus,1,25
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-30,10,27.855283,-115.075783,Halichoeres_semicinctus,5,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-30,10,27.855283,-115.075783,Halichoeres_semicinctus,3,5
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-30,10,27.855283,-115.075783,Hypsypops_rubicundus,1,15
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-30,10,27.855283,-115.075783,Hypsypops_rubicundus,3,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-30,10,27.855283,-115.075783,Hypsypops_rubicundus,1,25
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-30,10,27.855283,-115.075783,Chromis_punctipinnis,2,5
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-30,10,27.855283,-115.075783,Chromis_punctipinnis,1,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,1,20-30,10,27.855283,-115.075783,Paralabrax_nebulifer,1,20
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,0-10,10,27.855283,-115.075783,Semicossyphus_pulcher,1,20
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,1,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,1,20
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,1,30
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,5,15
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,2,5
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,6,29
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,1,25
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,0-10,10,27.855283,-115.075783,Hypsypops_rubicundus,1,20
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,7,5
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,2,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,20-Oct,10,27.855283,-115.075783,Semicossyphus_pulcher,1,25
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,20-Oct,10,27.855283,-115.075783,Paralabrax_clathratus,1,20
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,20-Oct,10,27.855283,-115.075783,Paralabrax_clathratus,3,15
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,20-Oct,10,27.855283,-115.075783,Paralabrax_clathratus,2,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,20-Oct,10,27.855283,-115.075783,Hypsypops_rubicundus,1,15
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,20-Oct,10,27.855283,-115.075783,Halichoeres_semicinctus,2,5
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,20-Oct,10,27.855283,-115.075783,Girella_nigricans,1,20
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,20-30,10,27.855283,-115.075783,Paralabrax_clathratus,2,10
+2016,5,21,Gavilanes,Mid,Ainoa V.,fish,2,20-30,10,27.855283,-115.075783,Paralabrax_clathratus,1,20
+2016,6,11,Gavilanes,Mid,Nur A.,algae,1,0-10,10,27.855283,-115.075783,Eisenia_arborea,11,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,1,20-Oct,10,27.855283,-115.075783,Eisenia_arborea,6,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,1,20-30,10,27.855283,-115.075783,Eisenia_arborea,5,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,1,20-Oct,10,27.855283,-115.075783,Laminaria_farlowii,10,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,1,20-30,10,27.855283,-115.075783,Laminaria_farlowii,7,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,1,0-10,10,27.855283,-115.075783,Sargassum_muticum,6,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,1,20-Oct,10,27.855283,-115.075783,Sargassum_muticum,6,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,1,20-30,10,27.855283,-115.075783,Sargassum_muticum,21,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,1,0-10,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,1,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,1,0-10,10,27.855283,-115.075783,Macrocystis_pyrifera,1,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,1,20-Oct,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,1,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,1,20-Oct,10,27.855283,-115.075783,Macrocystis_pyrifera,1,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,2,0-10,10,27.855283,-115.075783,Laminaria_farlowii,2,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,2,20-Oct,10,27.855283,-115.075783,Laminaria_farlowii,2,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,2,20-30,10,27.855283,-115.075783,Laminaria_farlowii,2,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,2,20-30,10,27.855283,-115.075783,Sargassum_muticum,6,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,2,20-Oct,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,3,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,2,20-Oct,10,27.855283,-115.075783,Macrocystis_pyrifera,3,Na
+2016,6,11,Gavilanes,Mid,Nur A.,algae,2,0-10,10,27.855283,-115.075783,Eisenia_arborea,3,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,1,NA,10,27.855283,-115.075783,Bedrock_1_m,12,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,1,NA,10,27.855283,-115.075783,Articulated_coralline_algae ,3,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,1,NA,10,27.855283,-115.075783,Sponge,2,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,1,NA,10,27.855283,-115.075783,Encrusting_red,16,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,1,NA,10,27.855283,-115.075783,Bushy_cylindrical_branches,2,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,1,NA,10,27.855283,-115.075783,Branch_flat_branching ,1,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,1,NA,10,27.855283,-115.075783,Boulder_10_cm_1_m,7,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,1,NA,10,27.855283,-115.075783,Sand,7,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,2,NA,10,27.855283,-115.075783,Bedrock_1_m,18,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,2,NA,10,27.855283,-115.075783,Encrusting_red,5,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,2,NA,10,27.855283,-115.075783,Articulated_coralline_algae ,8,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,2,NA,10,27.855283,-115.075783,Branch_flat_branching ,5,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,2,NA,10,27.855283,-115.075783,Dictyotales_spp,1,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,2,NA,10,27.855283,-115.075783,Sand,9,Na
+2016,6,11,Gavilanes,Mid,Nur A.,upc,2,NA,10,27.855283,-115.075783,Boulder_10_cm_1_m,3,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,1,20-30,10,27.855283,-115.075783,Lithopoma_spp,1,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,1,20-Oct,10,27.855283,-115.075783,Acarnus_erithacus,1,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,1,20-30,10,27.855283,-115.075783,Acarnus_erithacus,1,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,1,20-Oct,10,27.855283,-115.075783,Acarnus_erithacus,2,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,1,0-10,10,27.855283,-115.075783,Leucetta_losangelensis,3,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,1,20-Oct,10,27.855283,-115.075783,Leucetta_losangelensis,5,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,1,20-Oct,10,27.855283,-115.075783,Lophogorgia_chilensis,7,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,2,0-10,10,27.855283,-115.075783,Lithopoma_spp,3,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,2,0-10,10,27.855283,-115.075783,Panulirus_innterruptus         ,1,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,2,0-10,10,27.855283,-115.075783,Leucetta_losangelensis,3,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,2,0-10,10,27.855283,-115.075783,Muricea_californica,4,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,2,0-10,10,27.855283,-115.075783,Parastichopus_parvimensis,1,Na
+2016,6,11,Gavilanes,Mid,Nur A.,inverts,2,20-Oct,10,27.855283,-115.075783,Parastichopus_parvimensis,2,Na
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,0-10,10,27.855283,-115.075783,Semicossyphus_pulcher,1,20
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,20-Oct,10,27.855283,-115.075783,Semicossyphus_pulcher,1,25
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,1,40
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,2,15
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,20-Oct,10,27.855283,-115.075783,Paralabrax_clathratus,2,20
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,20-Oct,10,27.855283,-115.075783,Paralabrax_clathratus,10,15
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,20-Oct,10,27.855283,-115.075783,Paralabrax_clathratus,1,60
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,5,8
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,5,10
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,1,15
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,1,20
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,20-Oct,10,27.855283,-115.075783,Halichoeres_semicinctus,4,15
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,20-Oct,10,27.855283,-115.075783,Halichoeres_semicinctus,3,20
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,20-Oct,10,27.855283,-115.075783,Halichoeres_semicinctus,2,25
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,20-30,10,27.855283,-115.075783,Halichoeres_semicinctus,3,25
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,0-10,10,27.855283,-115.075783,Hypsypops_rubicundus,1,15
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,0-10,10,27.855283,-115.075783,Hypsypops_rubicundus,1,30
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,20-Oct,10,27.855283,-115.075783,Hypsypops_rubicundus,1,25
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,20-Oct,10,27.855283,-115.075783,Embiotoca_jacksoni,1,15
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,20-30,10,27.855283,-115.075783,Embiotoca_jacksoni,1,20
+2016,6,11,Gavilanes,Mid,Pamela,fish,1,20-30,10,27.855283,-115.075783,Paralabrax_nebulifer,1,25
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,0-10,10,27.855283,-115.075783,Hypsypops_rubicundus,1,25
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,0-10,10,27.855283,-115.075783,Hypsypops_rubicundus,1,20
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,0-10,10,27.855283,-115.075783,Hypsypops_rubicundus,1,10
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-Oct,10,27.855283,-115.075783,Hypsypops_rubicundus,1,30
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-30,10,27.855283,-115.075783,Hypsypops_rubicundus,2,25
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,2,10
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-Oct,10,27.855283,-115.075783,Halichoeres_semicinctus,2,10
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-30,10,27.855283,-115.075783,Halichoeres_semicinctus,3,8
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-30,10,27.855283,-115.075783,Halichoeres_semicinctus,5,10
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-30,10,27.855283,-115.075783,Halichoeres_semicinctus,1,20
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-30,10,27.855283,-115.075783,Halichoeres_semicinctus,1,25
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,0-10,10,27.855283,-115.075783,Semicossyphus_pulcher,1,20
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-Oct,10,27.855283,-115.075783,Semicossyphus_pulcher,1,25
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-30,10,27.855283,-115.075783,Semicossyphus_pulcher,1,30
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,2,20
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,1,30
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-Oct,10,27.855283,-115.075783,Paralabrax_clathratus,1,60
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-30,10,27.855283,-115.075783,Paralabrax_clathratus,1,30
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,0-10,10,27.855283,-115.075783,Paralabrax_nebulifer,1,30
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,0-10,10,27.855283,-115.075783,Girella_nigricans,1,40
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-30,10,27.855283,-115.075783,Girella_nigricans,2,25
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-30,10,27.855283,-115.075783,Girella_nigricans,1,15
+2016,6,11,Gavilanes,Mid,Pamela,fish,2,20-Oct,10,27.855283,-115.075783,Chromis_punctipinnis,1,15
+2016,10,23,Gavilanes,Mid,Nur A.,fish,1,0-10,10,27.855283,-115.075783,Chromis_punctipinnis,5,10
+2016,10,23,Gavilanes,Mid,Nur A.,fish,1,0-10,10,27.855283,-115.075783,Girella_nigricans,1,8
+2016,10,23,Gavilanes,Mid,Nur A.,fish,1,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,1,10
+2016,10,23,Gavilanes,Mid,Nur A.,fish,1,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,1,12
+2016,10,23,Gavilanes,Mid,Nur A.,fish,1,20-30,10,27.855283,-115.075783,Halichoeres_semicinctus,1,10
+2016,10,23,Gavilanes,Mid,Nur A.,fish,1,0-10,10,27.855283,-115.075783,Hypsypops_rubicundus,1,10
+2016,10,23,Gavilanes,Mid,Nur A.,fish,1,0-10,10,27.855283,-115.075783,Hypsypops_rubicundus,1,15
+2016,10,23,Gavilanes,Mid,Nur A.,fish,1,0-10,10,27.855283,-115.075783,Hypsypops_rubicundus,1,7
+2016,10,23,Gavilanes,Mid,Nur A.,fish,1,0-10,10,27.855283,-115.075783,Paralabrax_clathratus,1,20
+2016,10,23,Gavilanes,Mid,Nur A.,fish,1,20-30,10,27.855283,-115.075783,Paralabrax_clathratus,1,12
+2016,10,23,Gavilanes,Mid,Nur A.,fish,1,20-30,10,27.855283,-115.075783,Paralabrax_clathratus,1,20
+2016,10,23,Gavilanes,Mid,Nur A.,fish,1,0-10,10,27.855283,-115.075783,Sphyraena_afra,23,40
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,0-10,10,27.855283,-115.075783,Chromis_punctipinnis,2,7
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,0-10,10,27.855283,-115.075783,Chromis_punctipinnis,1,6
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,0-10,10,27.855283,-115.075783,Chromis_punctipinnis,1,8
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,20-Oct,10,27.855283,-115.075783,Girella_nigricans,3,20
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,3,13
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,0-10,10,27.855283,-115.075783,Halichoeres_semicinctus,5,5
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,20-Oct,10,27.855283,-115.075783,Halichoeres_semicinctus,2,14
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,0-10,10,27.855283,-115.075783,Hypsypops_rubicundus,2,13
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,0-10,10,27.855283,-115.075783,Hypsypops_rubicundus,1,15
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,20-Oct,10,27.855283,-115.075783,Hypsypops_rubicundus,1,18
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,20-30,10,27.855283,-115.075783,Hypsypops_rubicundus,1,13
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,20-30,10,27.855283,-115.075783,Paralabrax_clathratus,1,25
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,20-30,10,27.855283,-115.075783,Paralabrax_clathratus,1,30
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,0-10,10,27.855283,-115.075783,Paralabrax_nebulifer,1,20
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,0-10,10,27.855283,-115.075783,Semicossyphus_pulcher,1,20
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,0-10,10,27.855283,-115.075783,Semicossyphus_pulcher,1,40
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,0-10,10,27.855283,-115.075783,Semicossyphus_pulcher,1,15
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,20-Oct,10,27.855283,-115.075783,Semicossyphus_pulcher,1,14
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,20-30,10,27.855283,-115.075783,Semicossyphus_pulcher,1,26
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,20-30,10,27.855283,-115.075783,Semicossyphus_pulcher,2,25
+2016,10,23,Gavilanes,Mid,Nur A.,fish,2,20-30,10,27.855283,-115.075783,Semicossyphus_pulcher,1,40
+2016,10,23,Gavilanes,Mid,Nur A.,upc,1,Na,10,27.855283,-115.075783,Bedrock_1_m,17,Na
+2016,10,23,Gavilanes,Mid,Nur A.,upc,1,Na,10,27.855283,-115.075783,Branch_flat_branching ,7,Na
+2016,10,23,Gavilanes,Mid,Nur A.,upc,1,Na,10,27.855283,-115.075783,Articulated_coralline_algae ,4,Na
+2016,10,23,Gavilanes,Mid,Nur A.,upc,1,Na,10,27.855283,-115.075783,Bushy_cylindrical_branches,2,Na
+2016,10,23,Gavilanes,Mid,Nur A.,upc,1,Na,10,27.855283,-115.075783,Sand,12,Na
+2016,10,23,Gavilanes,Mid,Nur A.,upc,1,Na,10,27.855283,-115.075783,Crustose_coralline_algae ,3,Na
+2016,10,23,Gavilanes,Mid,Nur A.,upc,1,Na,10,27.855283,-115.075783,Boulder_10_cm_1_m,1,Na
+2016,10,23,Gavilanes,Mid,Nur A.,upc,2,Na,10,27.855283,-115.075783,Bedrock_1_m,18,Na
+2016,10,23,Gavilanes,Mid,Nur A.,upc,2,Na,10,27.855283,-115.075783,Articulated_coralline_algae ,9,Na
+2016,10,23,Gavilanes,Mid,Nur A.,upc,2,Na,10,27.855283,-115.075783,Crustose_coralline_algae ,10,Na
+2016,10,23,Gavilanes,Mid,Nur A.,upc,2,Na,10,27.855283,-115.075783,Bushy_cylindrical_branches,2,Na
+2016,10,23,Gavilanes,Mid,Nur A.,upc,2,Na,10,27.855283,-115.075783,Branch_flat_branching ,4,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,inverts,1,0-10,10,27.855283,-115.075783,Lithopoma_spp,2,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,1,0-10,10,27.855283,-115.075783,Eisenia_arborea,8,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,1,20-Oct,10,27.855283,-115.075783,Eisenia_arborea,2,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,1,20-30,10,27.855283,-115.075783,Eisenia_arborea,2,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,1,0-10,10,27.855283,-115.075783,macrocystis_pyrifera_stipes,1,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,1,0-10,10,27.855283,-115.075783,macrocystis_pyrifera,1,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,1,20-Oct,10,27.855283,-115.075783,macrocystis_pyrifera_stipes,4,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,1,20-Oct,10,27.855283,-115.075783,macrocystis_pyrifera,2,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,1,20-30,10,27.855283,-115.075783,macrocystis_pyrifera_stipes,3,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,1,20-30,10,27.855283,-115.075783,macrocystis_pyrifera,3,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,1,0-10,10,27.855283,-115.075783,Laminaria_farlowii,3,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,1,20-Oct,10,27.855283,-115.075783,Laminaria_farlowii,4,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,1,20-30,10,27.855283,-115.075783,Laminaria_farlowii,4,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,inverts,2,0-10,10,27.855283,-115.075783,Muricea_fruticosa,1,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,inverts,2,0-10,10,27.855283,-115.075783,Pacifigorgia_spp,1,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,inverts,2,0-10,10,27.855283,-115.075783,Panulirus_innterruptus         ,1,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,inverts,2,0-10,10,27.855283,-115.075783,Cucumaria_salma,3,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,2,0-10,10,27.855283,-115.075783,Eisenia_arborea,7,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,2,20-Oct,10,27.855283,-115.075783,Eisenia_arborea,8,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,2,20-30,10,27.855283,-115.075783,Eisenia_arborea,2,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,2,0-10,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,8,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,2,0-10,10,27.855283,-115.075783,Macrocystis_pyrifera,6,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,2,20-Oct,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,9,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,2,20-Oct,10,27.855283,-115.075783,Macrocystis_pyrifera,5,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,2,20-30,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,9,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,2,20-30,10,27.855283,-115.075783,Macrocystis_pyrifera,7,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,2,0-10,10,27.855283,-115.075783,Laminaria_farlowii,4,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,2,20-Oct,10,27.855283,-115.075783,Laminaria_farlowii,3,Na
+2016,10,23,Gavilanes,Mid,Häctor H.,algae,2,20-30,10,27.855283,-115.075783,Laminaria_farlowii,4,Na
+2017,6,22,Gavilanes,Shallow,Häctor H.,algae,1,Na,5,27.8545,-115.075867,Macrocystis_pyrifera,22,Na
+2017,6,22,Gavilanes,Shallow,Häctor H.,algae,1,Na,5,27.8545,-115.075867,Macrocystis_pyrifera_stipes,410,Na
+2017,6,22,Gavilanes,Shallow,Häctor H.,algae,1,Na,5,27.8545,-115.075867,Eisenia_arborea,21,Na
+2017,6,22,Gavilanes,Shallow,Häctor H.,algae,2,Na,5,27.8545,-115.075867,Macrocystis_pyrifera,38,Na
+2017,6,22,Gavilanes,Shallow,Häctor H.,algae,2,Na,5,27.8545,-115.075867,Macrocystis_pyrifera_stipes,243,Na
+2017,6,22,Gavilanes,Shallow,Häctor H.,algae,2,Na,5,27.8545,-115.075867,Eisenia_arborea,13,Na
+2017,6,22,Gavilanes,Deep,Häctor H.,algae,1,Na,17,27.857767,-115.08145,Macrocystis_pyrifera,5,Na
+2017,6,22,Gavilanes,Deep,Häctor H.,algae,1,Na,17,27.857767,-115.08145,Macrocystis_pyrifera_stipes,163,Na
+2017,6,22,Gavilanes,Deep,Häctor H.,algae,1,Na,17,27.857767,-115.08145,Eisenia_arborea,63,Na
+2017,6,22,Gavilanes,Deep,Häctor H.,algae,2,Na,17,27.857767,-115.08145,Macrocystis_pyrifera,5,Na
+2017,6,22,Gavilanes,Deep,Häctor H.,algae,2,Na,17,27.857767,-115.08145,Macrocystis_pyrifera_stipes,221,Na
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,1,Na,11,27.855283,-115.075783,Paralabrax_clathratus,1,25
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,1,Na,11,27.855283,-115.075783,Hypsypops_rubicundus,2,13
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,1,Na,11,27.855283,-115.075783,Hypsypops_rubicundus,3,15
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,1,Na,11,27.855283,-115.075783,Hypsypops_rubicundus,1,12
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,1,Na,11,27.855283,-115.075783,Sphoeroides_spp.,1,15
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,1,Na,11,27.855283,-115.075783,Semicossyphus_pulcher,1,18
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,1,Na,11,27.855283,-115.075783,Semicossyphus_pulcher,1,11
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,1,Na,11,27.855283,-115.075783,Semicossyphus_pulcher,1,13
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,2,Na,11,27.855283,-115.075783,Paralabrax_nebulifer,1,40
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,2,Na,11,27.855283,-115.075783,Paralabrax_clathratus,1,14
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,2,Na,11,27.855283,-115.075783,Paralabrax_clathratus,1,35
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,2,Na,11,27.855283,-115.075783,Paralabrax_clathratus,1,26
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,2,Na,11,27.855283,-115.075783,Hypsypops_rubicundus,2,18
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,2,Na,11,27.855283,-115.075783,Hypsypops_rubicundus,1,15
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,2,Na,11,27.855283,-115.075783,Semicossyphus_pulcher,1,28
+2017,6,22,Gavilanes,Mid,Rodrigo B.,fish,2,Na,11,27.855283,-115.075783,Semicossyphus_pulcher,1,32
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,1,Na,17,27.857767,-115.08145,Bedrock_1_m,19,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,1,Na,17,27.857767,-115.08145,Boulder_10_cm_1_m,8,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,1,Na,17,27.857767,-115.08145,Sand,3,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,1,Na,17,27.857767,-115.08145,Bare_rock,1,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,1,Na,17,27.857767,-115.08145,Bushy_cylindrical_branches,5,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,1,Na,17,27.857767,-115.08145,Lacy_filamentous_dense ,2,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,1,Na,17,27.857767,-115.08145,Crustose_coralline_algae ,4,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,1,Na,17,27.857767,-115.08145,Articulated_coralline_algae ,12,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,1,Na,17,27.857767,-115.08145,Dictyotales_spp,1,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,1,Na,17,27.857767,-115.08145,Desmarestia_spp,1,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,1,Na,17,27.857767,-115.08145,Macrocystis_holdfast_live,2,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,2,Na,17,27.857767,-115.08145,Bedrock_1_m,15,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,2,Na,17,27.857767,-115.08145,Boulder_10_cm_1_m,12,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,2,Na,17,27.857767,-115.08145,Sand,3,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,2,Na,17,27.857767,-115.08145,0_10 cm,13,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,2,Na,17,27.857767,-115.08145,10 cm_1 m,17,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,2,Na,17,27.857767,-115.08145,Bare_rock,2,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,2,Na,17,27.857767,-115.08145,Leaf_blade_unbranched,7,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,2,Na,17,27.857767,-115.08145,Lacy_filamentous_dense ,1,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,2,Na,17,27.857767,-115.08145,Turf_red_turf_2_cm,4,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,2,Na,17,27.857767,-115.08145,Crustose_coralline_algae ,15,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,2,Na,17,27.857767,-115.08145,Articulated_coralline_algae ,12,Na
+2017,6,21,Gavilanes,Deep,Rodrigo B.,upc,2,Na,17,27.857767,-115.08145,Macrocystis_holdfast_live,3,Na
+2017,6,21,Gavilanes,Mid,Eliot. D.,inverts,1,Na,9,27.855283,-115.075783,Hippodiplosioa_insculta,3,Na
+2017,6,21,Gavilanes,Mid,Eliot. D.,inverts,1,Na,9,27.855283,-115.075783,Acarnus_erithacus,2,Na
+2017,6,21,Gavilanes,Mid,Eliot. D.,inverts,1,Na,9,27.855283,-115.075783,Cucumaria_salma,6,Na
+2017,6,21,Gavilanes,Mid,Eliot. D.,inverts,1,Na,9,27.855283,-115.075783,Megastrea_undosa,3,Na
+2017,6,21,Gavilanes,Mid,Eliot. D.,inverts,1,Na,9,27.855283,-115.075783,Astraea_turbanica,3,Na
+2017,6,21,Gavilanes,Mid,Eliot. D.,inverts,1,Na,9,27.855283,-115.075783,Clavalina_huntsmania,4,Na
+2017,6,21,Gavilanes,Mid,Eliot. D.,inverts,2,Na,9,27.855283,-115.075783,Acarnus_erithacus,8,Na
+2017,6,21,Gavilanes,Mid,Eliot. D.,inverts,2,Na,9,27.855283,-115.075783,Megastrea_undosa,2,Na
+2017,6,21,Gavilanes,Mid,Eliot. D.,inverts,2,Na,9,27.855283,-115.075783,Lophogorgia_chilensis,1,Na
+2017,6,21,Gavilanes,Mid,Eliot. D.,inverts,2,Na,9,27.855283,-115.075783,Anthopleura_artemisa,1,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,1,Na,17,27.857767,-115.08145,Parastichopus_parvimensis,2,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,1,Na,17,27.857767,-115.08145,Other_starfish,2,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,1,Na,17,27.857767,-115.08145,Megastrea_undosa,7,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,1,Na,17,27.857767,-115.08145,Muricea_fruticosa,3,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,1,Na,17,27.857767,-115.08145,Lophogorgia_chilensis,2,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,1,Na,17,27.857767,-115.08145,Mesosentrotus_franciscanus,1,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,1,Na,17,27.857767,-115.08145,Tethya_aurantia,12,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,1,Na,17,27.857767,-115.08145,Spheciospongia_confoederata,1,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,1,Na,17,27.857767,-115.08145,Other_starfish,2,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,2,Na,17,27.857767,-115.08145,Other_starfish,1,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,2,Na,17,27.857767,-115.08145,Megastrea_undosa,9,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,2,Na,17,27.857767,-115.08145,Muricea_fruticosa,1,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,2,Na,17,27.857767,-115.08145,Lophogorgia_chilensis,3,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,2,Na,17,27.857767,-115.08145,Hippodiplosioa_insculta,2,Na
+2017,6,22,Gavilanes,Deep,Fernanda A.,inverts,2,Na,17,27.857767,-115.08145,Tethya_aurantia,2,Na
+2017,6,22,Gavilanes,Shallow,Fernanda A.,inverts,1,Na,5,27.8545,-115.075867,Cyprea_spp,1,Na
+2017,6,22,Gavilanes,Shallow,Fernanda A.,inverts,1,Na,5,27.8545,-115.075867,Megastrea_undosa,11,Na
+2017,6,22,Gavilanes,Shallow,Fernanda A.,inverts,1,Na,5,27.8545,-115.075867,Lophogorgia_chilensis,2,Na
+2017,6,22,Gavilanes,Shallow,Fernanda A.,inverts,1,Na,5,27.8545,-115.075867,Tethya_aurantia,6,Na
+2017,6,22,Gavilanes,Shallow,Fernanda A.,inverts,1,Na,5,27.8545,-115.075867,Spheciospongia_confoederata,3,Na
+2017,6,22,Gavilanes,Shallow,Fernanda A.,inverts,2,Na,5,27.8545,-115.075867,Other_starfish,1,Na
+2017,6,22,Gavilanes,Shallow,Fernanda A.,inverts,2,Na,5,27.8545,-115.075867,Megastrea_undosa,14,Na
+2017,6,22,Gavilanes,Shallow,Fernanda A.,inverts,2,Na,5,27.8545,-115.075867,Lophogorgia_chilensis,1,Na
+2017,6,22,Gavilanes,Shallow,Fernanda A.,inverts,2,Na,5,27.8545,-115.075867,Tethya_aurantia,6,Na
+2017,6,22,Gavilanes,Shallow,Fernanda A.,inverts,2,Na,5,27.8545,-115.075867,Spheciospongia_confoederata,2,Na
+2017,8,14,Gavilanes,Shallow,Rodrigo C. ,inverts,1,Na,6,27.8545,-115.075867,Macrocystis_pyrifera,9,Na
+2017,8,14,Gavilanes,Shallow,Rodrigo C. ,inverts,1,Na,6,27.8545,-115.075867,Macrocystis_pyrifera_stipes,51,Na
+2017,8,14,Gavilanes,Shallow,Rodrigo C. ,algae,1,Na,6,27.8545,-115.075867,Cystoseira_osmundasea,39,Na
+2017,8,14,Gavilanes,Shallow,Rodrigo C. ,algae,1,Na,6,27.8545,-115.075867,Eisenia_arborea,28,Na
+2017,8,14,Gavilanes,Shallow,Rodrigo C. ,algae,2,Na,6,27.8545,-115.075867,Macrocystis_pyrifera,17,Na
+2017,8,14,Gavilanes,Shallow,Rodrigo C. ,algae,2,Na,6,27.8545,-115.075867,Macrocystis_pyrifera_stipes,133,Na
+2017,8,14,Gavilanes,Shallow,Rodrigo C. ,algae,2,Na,6,27.8545,-115.075867,Cystoseira_osmundasea,13,Na
+2017,8,14,Gavilanes,Shallow,Rodrigo C. ,algae,2,Na,6,27.8545,-115.075867,Eisenia_arborea,17,Na
+2017,8,14,Gavilanes,Shallow,Rodrigo C. ,algae,2,Na,6,27.8545,-115.075867,Laminaria_farlowii,4,Na
+2017,8,14,Gavilanes,Mid,Rodrigo C. ,algae,1,Na,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,177,Na
+2017,8,14,Gavilanes,Mid,Rodrigo C. ,algae,1,Na,10,27.855283,-115.075783,Macrocystis_pyrifera,3,Na
+2017,8,14,Gavilanes,Mid,Rodrigo C. ,algae,1,Na,10,27.855283,-115.075783,Cystoseira_osmundasea,1,Na
+2017,8,14,Gavilanes,Mid,Rodrigo C. ,algae,1,Na,10,27.855283,-115.075783,Eisenia_arborea,44,Na
+2017,8,14,Gavilanes,Mid,Rodrigo C. ,algae,1,Na,10,27.855283,-115.075783,Pterygophora_californica,1,Na
+2017,8,14,Gavilanes,Mid,Rodrigo C. ,algae,2,Na,10,27.855283,-115.075783,Macrocystis_pyrifera,16,Na
+2017,8,14,Gavilanes,Mid,Rodrigo C. ,algae,2,Na,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,162,Na
+2017,8,14,Gavilanes,Mid,Rodrigo C. ,algae,2,Na,10,27.855283,-115.075783,Cystoseira_osmundasea,1,Na
+2017,8,14,Gavilanes,Mid,Rodrigo C. ,algae,2,Na,10,27.855283,-115.075783,Eisenia_arborea,11,Na
+2017,8,14,Gavilanes,Mid,Rodrigo C. ,algae,2,Na,10,27.855283,-115.075783,Laminaria_farlowii,1,Na
+2017,8,14,Gavilanes,Deep,Rodrigo C. ,algae,1,Na,16,27.855283,-115.075783,Macrocystis_pyrifera_stipes,65,Na
+2017,8,14,Gavilanes,Deep,Rodrigo C. ,algae,1,Na,16,27.855283,-115.075783,Macrocystis_pyrifera,6,Na
+2017,8,14,Gavilanes,Deep,Rodrigo C. ,algae,2,Na,16,27.855283,-115.075783,Macrocystis_pyrifera_stipes,118,Na
+2017,8,14,Gavilanes,Deep,Rodrigo C. ,algae,2,Na,16,27.855283,-115.075783,Macrocystis_pyrifera,17,Na
+2017,8,14,Gavilanes,Deep,Rodrigo C. ,algae,2,Na,16,27.855283,-115.075783,Laminaria_farlowii,2,Na
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,1,Na,8,27.8545,-115.075867,Paralabrax_clathratus,4,20
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,1,Na,8,27.8545,-115.075867,Paralabrax_clathratus,1,10
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,1,Na,8,27.8545,-115.075867,Paralabrax_clathratus,4,20
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,1,Na,8,27.8545,-115.075867,Paralabrax_clathratus,1,10
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,1,Na,8,27.8545,-115.075867,Paralabrax_nebulifer,1,30
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,1,Na,8,27.8545,-115.075867,Semicossyphus_pulcher,1,20
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,1,Na,8,27.8545,-115.075867,Hypsypops_rubicundus,1,10
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,1,Na,8,27.8545,-115.075867,Halichoeres_semicinctus,2,10
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,1,Na,8,27.8545,-115.075867,Halichoeres_semicinctus,1,5
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,2,Na,8,27.8545,-115.075867,Girella_nigricans,4,20
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,2,Na,8,27.8545,-115.075867,Girella_nigricans,1,25
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,2,Na,8,27.8545,-115.075867,Paralabrax_clathratus,3,25
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,2,Na,8,27.8545,-115.075867,Paralabrax_clathratus,2,20
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,2,Na,8,27.8545,-115.075867,Hypsypops_rubicundus,1,20
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,2,Na,8,27.8545,-115.075867,Hypsypops_rubicundus,1,15
+2017,8,14,Gavilanes,Shallow,Häctor H.,fish,2,Na,8,27.8545,-115.075867,Halichoeres_semicinctus,1,5
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,1,Na,12,27.855283,-115.075783,Hypsypops_rubicundus,1,5
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,1,Na,12,27.855283,-115.075783,Hypsypops_rubicundus,3,10
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,1,Na,12,27.855283,-115.075783,Paralabrax_clathratus,1,5
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,1,Na,12,27.855283,-115.075783,Paralabrax_clathratus,6,10
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,1,Na,12,27.855283,-115.075783,Paralabrax_clathratus,5,15
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,1,Na,12,27.855283,-115.075783,Semicossyphus_pulcher,2,15
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,1,Na,12,27.855283,-115.075783,Semicossyphus_pulcher,3,10
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,1,Na,12,27.855283,-115.075783,Paralabrax_nebulifer,2,15
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,1,Na,12,27.855283,-115.075783,Rhacochilus_vacca,2,10
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,2,Na,12,27.855283,-115.075783,Hypsypops_rubicundus,1,5
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,2,Na,12,27.855283,-115.075783,Hypsypops_rubicundus,1,15
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,2,Na,12,27.855283,-115.075783,Paralabrax_clathratus,3,15
+2017,8,14,Gavilanes,Mid,Häctor H.,fish,2,Na,12,27.855283,-115.075783,Semicossyphus_pulcher,1,50
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,1,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,1,45
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,1,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,2,30
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,1,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,2,40
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,1,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,3,15
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,1,Na,16,27.857767,-115.08145,Paralabrax_clathratus,5,20
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,1,Na,16,27.857767,-115.08145,Paralabrax_clathratus,3,15
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,1,Na,16,27.857767,-115.08145,Anisotremus_davidsonii,5,15
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,3,10
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,1,20
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,2,20
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,1,15
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Girella_nigricans,4,30
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Girella_nigricans,1,15
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Caulolatilus_princeps,2,15
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Halichoeres_semicinctus,4,30
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Halichoeres_semicinctus,1,10
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Hypsypops_rubicundus,1,15
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Hypsypops_rubicundus,1,10
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_nebulifer,2,25
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_nebulifer,1,20
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_nebulifer,3,15
+2017,8,14,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Chromis_punctipinnis,6,8
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Megastrea_undosa,13,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,20-30,16,27.857767,-115.08145,Megastrea_undosa,2,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Tethya_aurantia,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,20-Oct,16,27.857767,-115.08145,Tethya_aurantia,2,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Muricea_californica,2,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Lophogorgia_chilensis,2,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,20-Oct,16,27.857767,-115.08145,Lophogorgia_chilensis,4,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Acarnus_erithacus,4,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,20-Oct,16,27.857767,-115.08145,Acarnus_erithacus,2,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,20-30,16,27.857767,-115.08145,Acarnus_erithacus,5,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Thelepus_Crispus,3,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,20-Oct,16,27.857767,-115.08145,Thelepus_Crispus,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,20-30,16,27.857767,-115.08145,Thelepus_Crispus,2,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Other_starfish,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Hippodiplosioa_insculta,3,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Parastichopus_parvimensis,2,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Loxorhynchus_grandis,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,20-30,16,27.857767,-115.08145,Loxorhynchus_grandis,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Clavalina_huntsmania,4,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,20-Oct,16,27.857767,-115.08145,Clavalina_huntsmania,25,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,20-30,16,27.857767,-115.08145,Clavalina_huntsmania,8,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Metandrocarpa_taylori,3,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,20-Oct,16,27.857767,-115.08145,Didemnum_Carnulentum,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,20-30,16,27.857767,-115.08145,Didemnum_Carnulentum,2,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,1,0-10,16,27.857767,-115.08145,Salmacina_tribranchiata,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,0-10,16,27.857767,-115.08145,Megastrea_undosa,21,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,20-Oct,16,27.857767,-115.08145,Megastrea_undosa,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,0-10,16,27.857767,-115.08145,Tethya_aurantia,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,20-30,16,27.857767,-115.08145,Tethya_aurantia,2,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,0-10,16,27.857767,-115.08145,Lophogorgia_chilensis,5,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,20-Oct,16,27.857767,-115.08145,Lophogorgia_chilensis,3,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,0-10,16,27.857767,-115.08145,Acarnus_erithacus,3,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,20-Oct,16,27.857767,-115.08145,Acarnus_erithacus,4,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,0-10,16,27.857767,-115.08145,Thelepus_Crispus,5,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,20-Oct,16,27.857767,-115.08145,Thelepus_Crispus,23,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,20-30,16,27.857767,-115.08145,Thelepus_Crispus,3,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,0-10,16,27.857767,-115.08145,Other_starfish,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,0-10,16,27.857767,-115.08145,Parastichopus_parvimensis,5,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,20-30,16,27.857767,-115.08145,Parastichopus_parvimensis,3,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,20-Oct,16,27.857767,-115.08145,Loxorhynchus_grandis,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,0-10,16,27.857767,-115.08145,Clavalina_huntsmania,3,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,20-Oct,16,27.857767,-115.08145,Clavalina_huntsmania,7,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,20-30,16,27.857767,-115.08145,Clavalina_huntsmania,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,0-10,16,27.857767,-115.08145,Didemnum_Carnulentum,1,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,20-Oct,16,27.857767,-115.08145,Didemnum_Carnulentum,4,Na
+2017,8,14,Gavilanes,Deep,Eliot. D.,inverts,2,20-Oct,16,27.857767,-115.08145,Panulirus_innterruptus         ,10,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,0-10,12,27.855283,-115.075783,Megastrea_undosa,17,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,20-Oct,12,27.855283,-115.075783,Megastrea_undosa,1,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,20-30,12,27.855283,-115.075783,Megastrea_undosa,4,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,0-10,12,27.855283,-115.075783,Acarnus_erithacus,5,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,20-Oct,12,27.855283,-115.075783,Acarnus_erithacus,2,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,20-30,12,27.855283,-115.075783,Acarnus_erithacus,9,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,0-10,12,27.855283,-115.075783,Didemnum_Carnulentum,3,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,20-Oct,12,27.855283,-115.075783,Didemnum_Carnulentum,2,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,20-30,12,27.855283,-115.075783,Didemnum_Carnulentum,2,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,0-10,12,27.855283,-115.075783,Parastichopus_parvimensis,1,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,0-10,12,27.855283,-115.075783,Muricea_californica,2,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,0-10,12,27.855283,-115.075783,Megatura_crenulata,1,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,0-10,12,27.855283,-115.075783,Panulirus_innterruptus         ,2,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,20-Oct,12,27.855283,-115.075783,Metandrocarpa_taylori,2,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,20-30,12,27.855283,-115.075783,Metandrocarpa_taylori,2,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,20-30,12,27.855283,-115.075783,Clavalina_huntsmania,1,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,1,20-30,12,27.855283,-115.075783,Clavalina_huntsmania,1,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,2,0-10,12,27.855283,-115.075783,Didemnum_Carnulentum,1,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,2,0-10,12,27.855283,-115.075783,Acarnus_erithacus,5,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,2,20-Oct,12,27.855283,-115.075783,Acarnus_erithacus,1,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,2,20-30,12,27.855283,-115.075783,Acarnus_erithacus,4,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,2,0-10,12,27.855283,-115.075783,Megastrea_undosa,2,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,2,20-Oct,12,27.855283,-115.075783,Megastrea_undosa,1,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,2,20-30,12,27.855283,-115.075783,Megastrea_undosa,4,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,2,0-10,12,27.855283,-115.075783,Spheciospongia_confoederata,1,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,2,20-Oct,12,27.855283,-115.075783,Muricea_californica,1,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,2,20-Oct,12,27.855283,-115.075783,Metandrocarpa_taylori,1,Na
+2017,8,14,Gavilanes,Mid,Eliot. D.,inverts,2,20-30,12,27.855283,-115.075783,Clavalina_huntsmania,1,Na
+2017,8,14,Gavilanes,Shallow,Eliot. D.,inverts,1,0-10,8,27.8545,-115.075867,Acarnus_erithacus,3,Na
+2017,8,14,Gavilanes,Shallow,Eliot. D.,inverts,1,20-Oct,8,27.8545,-115.075867,Acarnus_erithacus,1,Na
+2017,8,14,Gavilanes,Shallow,Eliot. D.,inverts,1,0-10,8,27.8545,-115.075867,Megastrea_undosa,1,Na
+2017,8,14,Gavilanes,Shallow,Eliot. D.,inverts,1,0-10,8,27.8545,-115.075867,Panulirus_innterruptus         ,1,Na
+2017,8,14,Gavilanes,Shallow,Eliot. D.,inverts,2,0-10,8,27.8545,-115.075867,Didemnum_Carnulentum,1,Na
+2017,8,14,Gavilanes,Shallow,Eliot. D.,inverts,2,0-10,8,27.8545,-115.075867,Other_starfish,1,Na
+2017,8,14,Gavilanes,Shallow,Eliot. D.,inverts,2,0-10,8,27.8545,-115.075867,Acarnus_erithacus,4,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Bedrock_1_m,17,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Boulder_10_cm_1_m,6,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Sand,7,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Dictyotales_spp,6,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Bushy_cylindrical_branches,2,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Articulated_coralline_algae ,6,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Shell_debris,7,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Crustose_coralline_algae ,7,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Lacy_filamentous_dense ,2,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,0_10 cm,16,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,1 m_2 m,10,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,10 cm_1 m,4,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.855283,-115.075783,Bedrock_1_m,14,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.855283,-115.075783,Sand,8,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.855283,-115.075783,Boulder_10_cm_1_m,8,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.855283,-115.075783,Articulated_coralline_algae ,6,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.855283,-115.075783,Lacy_filamentous_dense ,4,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.855283,-115.075783,Crustose_coralline_algae ,5,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.855283,-115.075783,Shell_debris,8,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.855283,-115.075783,Dictyotales_spp,5,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.855283,-115.075783,Macrocystis_holdfast_live,1,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.855283,-115.075783,Bushy_cylindrical_branches,1,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.855283,-115.075783,0_10 cm,22,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.855283,-115.075783,1 m_2 m,3,Na
+2017,8,14,Gavilanes,Mid,Fernanda A.,upc,2,Na,9,27.8545,-115.075867,10 cm_1 m,5,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Bedrock_1_m,18,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Boulder_10_cm_1_m,2,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Cobble_10cm,6,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Sand,4,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Articulated_coralline_algae ,6,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Macrocystis_holdfast_live,1,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Dictyotales_spp,4,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Crustose_coralline_algae ,9,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Shell_debris,8,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Bare_rock,2,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,0_10 cm,22,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,1 m_2 m,7,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,10 cm_1 m,3,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Bedrock_1_m,26,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,sand,2,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Boulder_10_cm_1_m,2,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Articulated_coralline_algae ,10,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Bushy_cylindrical_branches,4,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Macrocystis_holdfast_live,2,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Crustose_coralline_algae ,3,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Shell_debris,3,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Dictyotales_spp,6,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Lacy_filamentous_dense ,2,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,0_10 cm,16,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,1 m_2 m,6,Na
+2017,8,14,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,10 cm_1 m,8,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Bedrock_1_m,20,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Sand,3,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Cobble_10cm,3,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Boulder_10_cm_1_m,4,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Lacy_filamentous_dense ,3,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Bushy_cylindrical_branches,3,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Shell_debris,3,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Dictyotales_spp,8,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,crustose_coralline_algae ,9,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Articulated_coralline_algae ,2,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Encrusting_red,2,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Bedrock_1_m,23,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Sand,7,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Articulated_coralline_algae ,2,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Bushy_cylindrical_branches,4,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Lacy_filamentous_dense ,2,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Shell_debris,10,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Dictyotales_spp,9,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,1,Na,5,27.8545,-115.075867,Crustose_coralline_algae ,3,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,2,Na,5,27.8545,-115.075867,Bedrock_1_m,26,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,2,Na,5,27.8545,-115.075867,sand,4,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,2,Na,5,27.8545,-115.075867,Articulated_coralline_algae ,2,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,2,Na,5,27.8545,-115.075867,Bushy_cylindrical_branches,4,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,2,Na,5,27.8545,-115.075867,Lacy_filamentous_dense ,2,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,2,Na,5,27.8545,-115.075867,Shell_debris,8,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,2,Na,5,27.8545,-115.075867,Dictyotales_spp,8,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,2,Na,5,27.8545,-115.075867,Crustose_coralline_algae ,4,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,2,Na,5,27.8545,-115.075867,0_10 cm,17,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,2,Na,5,27.8545,-115.075867,10 cm_1 m,12,Na
+2017,8,14,Gavilanes,Shallow,Fernanda A.,upc,2,Na,5,27.8545,-115.075867,1 m_2 m,1,Na
+2017,10,23,Gavilanes,Shallow,Eliot. D.,fish,1,Na,5,27.8545,-115.075867,Paralabrax_clathratus,0,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,fish,2,Na,5,27.8545,-115.075867,Paralabrax_clathratus,0,Na
+2017,10,23,Gavilanes,Mid,Eliot. D.,fish,1,Na,9,27.855283,-115.075783,Anisotremus_davidsonii,3,30
+2017,10,23,Gavilanes,Mid,Eliot. D.,fish,1,Na,9,27.855283,-115.075783,Paralabrax_clathratus,1,30
+2017,10,23,Gavilanes,Mid,Eliot. D.,fish,1,Na,9,27.855283,-115.075783,Paralabrax_clathratus,2,20
+2017,10,23,Gavilanes,Mid,Eliot. D.,fish,1,Na,9,27.855283,-115.075783,Paralabrax_clathratus,1,35
+2017,10,23,Gavilanes,Mid,Eliot. D.,fish,1,Na,9,27.855283,-115.075783,Embiotoca_lateralis,5,25
+2017,10,23,Gavilanes,Mid,Eliot. D.,fish,1,Na,9,27.855283,-115.075783,Embiotoca_lateralis,1,15
+2017,10,23,Gavilanes,Mid,Eliot. D.,fish,1,Na,9,27.855283,-115.075783,Rhacochilus_vacca,2,23
+2017,10,23,Gavilanes,Mid,Häctor H.,fish,2,Na,9,27.855283,-115.075783,Halichoeres_semicinctus,1,26
+2017,10,23,Gavilanes,Mid,Häctor H.,fish,2,Na,9,27.855283,-115.075783,Semicossyphus_pulcher,2,28
+2017,10,23,Gavilanes,Mid,Häctor H.,fish,2,Na,9,27.855283,-115.075783,Semicossyphus_pulcher,1,52
+2017,10,23,Gavilanes,Mid,Häctor H.,fish,2,Na,9,27.855283,-115.075783,Paralabrax_clathratus,1,34
+2017,10,23,Gavilanes,Mid,Häctor H.,fish,2,Na,9,27.855283,-115.075783,Paralabrax_clathratus,1,38
+2017,10,23,Gavilanes,Mid,Häctor H.,fish,2,Na,9,27.855283,-115.075783,Hypsypops_rubicundus,5,25
+2017,10,23,Gavilanes,Mid,Häctor H.,fish,2,Na,9,27.855283,-115.075783,Hypsypops_rubicundus,1,32
+2017,10,23,Gavilanes,Mid,Häctor H.,fish,2,Na,9,27.855283,-115.075783,Anisotremus_davidsonii,1,29
+2017,10,23,Gavilanes,Mid,Häctor H.,fish,2,Na,9,27.855283,-115.075783,Anisotremus_davidsonii,1,23
+2017,10,23,Gavilanes,Mid,Häctor H.,fish,2,Na,9,27.855283,-115.075783,Girella_nigricans,1,35
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Chromis_punctipinnis,4,17
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Gobiidae_spp,2,10
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,4,35
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,2,20
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,1,40
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Paralabrax_clathratus,4,30
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Paralabrax_clathratus,2,25
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Paralabrax_clathratus,2,15
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Paralabrax_clathratus,1,35
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Rhacochilus_vacca,3,20
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Rhacochilus_vacca,4,25
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Hypsypops_rubicundus,4,25
+2017,10,23,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Hypsypops_rubicundus,1,22
+2017,10,23,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Medialuna_californiensis,1,43
+2017,10,23,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_nebulifer,2,20
+2017,10,23,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_nebulifer,1,35
+2017,10,23,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_nebulifer,1,43
+2017,10,23,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_nebulifer,1,40
+2017,10,23,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_nebulifer,2,25
+2017,10,23,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Halichoeres_semicinctus,1,22
+2017,10,23,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,2,40
+2017,10,23,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,1,33
+2017,10,23,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_clathratus,1,40
+2017,10,23,Gavilanes,Deep,Häctor H.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_clathratus,2,36
+2017,10,23,Gavilanes,Shallow,Fernanda A.,Algae,1,Na,6,27.8545,-115.075867,Macrocystis_pyrifera,25,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,Algae,1,Na,6,27.8545,-115.075867,Macrocystis_pyrifera_stipes,498,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,Algae,1,Na,6,27.8545,-115.075867,Eisenia_arborea,30,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,Algae,1,Na,6,27.8545,-115.075867,Undaria_pinnatifida,14,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,Algae,2,Na,6,27.8545,-115.075867,Macrocystis_pyrifera,6,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,Algae,2,Na,6,27.8545,-115.075867,Macrocystis_pyrifera_stipes,228,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,Algae,2,Na,6,27.8545,-115.075867,Desmarestia_spp,11,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,Algae,2,Na,6,27.8545,-115.075867,Eisenia_arborea,26,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,Algae,1,Na,10,27.855283,-115.075783,Macrocystis_pyrifera,16,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,Algae,1,Na,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,304,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,Algae,1,Na,10,27.855283,-115.075783,Eisenia_arborea,41,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,Algae,2,Na,10,27.855283,-115.075783,Macrocystis_pyrifera,6,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,Algae,2,Na,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,205,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,Algae,2,Na,10,27.855283,-115.075783,Eisenia_arborea,34,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,Algae,2,Na,10,27.855283,-115.075783,Undaria_pinnatifida,18,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,Algae,1,Na,16,27.857767,-115.08145,Macrocystis_pyrifera,16,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,Algae,1,Na,16,27.857767,-115.08145,Macrocystis_pyrifera_stipes,212,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,Algae,1,Na,16,27.857767,-115.08145,undaria_pinnatifida,1,Na
+2017,10,23,Gavilanes,Deep,Häctor H.,Algae,2,Na,16,27.857767,-115.08145,Macrocystis_pyrifera,6,Na
+2017,10,23,Gavilanes,Deep,Häctor H.,Algae,2,Na,16,27.857767,-115.08145,Macrocystis_pyrifera_stipes,196,Na
+2017,10,23,Gavilanes,Shallow,Eliot. D.,inverts,1,0-10,7,27.8545,-115.075867,Acarnus_erithacus,4,Na
+2017,10,23,Gavilanes,Shallow,Eliot. D.,inverts,1,20-Oct,7,27.8545,-115.075867,Acarnus_erithacus,3,Na
+2017,10,23,Gavilanes,Shallow,Eliot. D.,inverts,1,20-30,7,27.8545,-115.075867,Acarnus_erithacus,3,Na
+2017,10,23,Gavilanes,Shallow,Eliot. D.,inverts,1,0-10,7,27.8545,-115.075867,Spheciospongia_confoederata,2,Na
+2017,10,23,Gavilanes,Shallow,Eliot. D.,inverts,1,0-10,7,27.8545,-115.075867,Octopus_spp,1,Na
+2017,10,23,Gavilanes,Shallow,Eliot. D.,inverts,1,0-10,7,27.8545,-115.075867,Cucumaria_salma,1,Na
+2017,10,23,Gavilanes,Shallow,Eliot. D.,inverts,1,20-30,7,27.8545,-115.075867,Cucumaria_salma,1,Na
+2017,10,23,Gavilanes,Shallow,Eliot. D.,inverts,1,0-10,7,27.8545,-115.075867,Panulirus_innterruptus         ,1,Na
+2017,10,23,Gavilanes,Shallow,Eliot. D.,inverts,1,0-10,7,27.8545,-115.075867,Megastrea_undosa,2,Na
+2017,10,23,Gavilanes,Shallow,Eliot. D.,inverts,1,20-Oct,7,27.8545,-115.075867,Megastrea_undosa,8,Na
+2017,10,23,Gavilanes,Shallow,Eliot. D.,inverts,1,20-30,7,27.8545,-115.075867,Megastrea_undosa,5,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,inverts,2,Na,7,27.8545,-115.075867,Megastrea_undosa,7,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,inverts,2,Na,7,27.8545,-115.075867,Acarnus_erithacus,1,Na
+2017,10,23,Gavilanes,Mid,Eliot. D.,inverts,1,Na,9,27.855283,-115.075783,Megastrea_undosa,7,Na
+2017,10,23,Gavilanes,Mid,Eliot. D.,inverts,1,Na,9,27.855283,-115.075783,Acarnus_erithacus,8,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,inverts,2,Na,9,27.855283,-115.075783,Megastrea_undosa,14,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,inverts,2,Na,9,27.855283,-115.075783,Acarnus_erithacus,1,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,inverts,2,Na,9,27.855283,-115.075783,Spheciospongia_confoederata,1,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,inverts,2,Na,9,27.855283,-115.075783,Other_starfish,1,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,inverts,2,Na,9,27.855283,-115.075783,Lophogorgia_chilensis,1,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Flabellina_lodinea,2,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Spheciospongia_confoederata,4,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Muricea_californica,1,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Metandrocarpa_taylori,24,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Panulirus_innterruptus         ,1,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Megastrea_undosa,33,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Haliotis_spp,1,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Tethya_aurantia,8,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Acarnus_erithacus,20,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Hippodiplosioa_insculta,9,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Didemnum_Carnulentum,1,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Pacifigorgia_spp,1,Na
+2017,10,23,Gavilanes,Deep,Eliot. D.,inverts,1,Na,16,27.857767,-115.08145,Clavalina_huntsmania,4,Na
+2017,10,23,Gavilanes,Deep,Häctor H.,inverts,2,Na,16,27.857767,-115.08145,Megastrea_undosa,70,Na
+2017,10,23,Gavilanes,Deep,Häctor H.,inverts,2,Na,16,27.857767,-115.08145,Tethya_aurantia,8,Na
+2017,10,23,Gavilanes,Deep,Häctor H.,inverts,2,Na,16,27.857767,-115.08145,Muricea_fruticosa,1,Na
+2017,10,23,Gavilanes,Deep,Häctor H.,inverts,2,Na,16,27.857767,-115.08145,Hippodiplosioa_insculta,1,Na
+2017,10,23,Gavilanes,Deep,Häctor H.,inverts,2,Na,16,27.857767,-115.08145,Leucetta_losangelensis,1,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,Bedrock_1_m,16,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,Boulder_10_cm_1_m,4,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,Cobble_10cm,8,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,sand,2,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,0_10 cm,10,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,10 cm_1 m,18,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,1 m_2 m,2,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,Bryozoan,1,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,Bare_rock,2,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,Bare_sand,2,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,Bushy_cylindrical_branches,3,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,Encrusting_red,1,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,Crustose_coralline_algae ,8,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,Articulated_coralline_algae ,9,Na
+2017,10,23,Gavilanes,Shallow,Fernanda A.,upc,1,Na,6,27.8545,-115.075867,Macrocystis_holdfast_live,5,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,upc,2,Na,6,27.8545,-115.075867,Bedrock_1_m,7,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,upc,2,Na,6,27.8545,-115.075867,Boulder_10_cm_1_m,2,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,upc,2,Na,6,27.8545,-115.075867,Cobble_10cm,7,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,upc,2,Na,6,27.8545,-115.075867,sand,14,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,upc,2,Na,6,27.8545,-115.075867,0_10 cm,9,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,upc,2,Na,6,27.8545,-115.075867,10 cm_1 m,21,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,upc,2,Na,6,27.8545,-115.075867,Sediment_mud,15,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,upc,2,Na,6,27.8545,-115.075867,Bushy_cylindrical_branches,1,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,upc,2,Na,6,27.8545,-115.075867,Crustose_coralline_algae ,4,Na
+2017,10,23,Gavilanes,Shallow,Häctor H.,upc,2,Na,6,27.8545,-115.075867,Articulated_coralline_algae ,10,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Bedrock_1_m,12,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Cobble_10cm,6,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,sand,12,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,0_10 cm,18,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,10 cm_1 m,9,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,1 m_2 m,3,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Drift_algae       ,1,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Bryozoan,1,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Bare_rock,1,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Bare_sand,11,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Bushy_cylindrical_branches,2,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Crustose_coralline_algae ,7,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Articulated_coralline_algae ,5,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Dictyotales_spp,2,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Macrocystis_holdfast_live,1,Na
+2017,10,23,Gavilanes,Mid,Fernanda A.,upc,1,Na,9,27.855283,-115.075783,Sponge,1,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,upc,2,Na,9,27.855283,-115.075783,Bedrock_1_m,14,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,upc,2,Na,9,27.855283,-115.075783,Boulder_10_cm_1_m,4,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,upc,2,Na,9,27.855283,-115.075783,Cobble_10cm,5,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,upc,2,Na,9,27.855283,-115.075783,sand,7,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,upc,2,Na,9,27.855283,-115.075783,0_10 cm,26,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,upc,2,Na,9,27.855283,-115.075783,10 cm_1 m,4,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,upc,2,Na,9,27.855283,-115.075783,Drift_algae       ,2,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,upc,2,Na,9,27.855283,-115.075783,Sediment_mud,16,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,upc,2,Na,9,27.855283,-115.075783,Turf_red_turf_2_cm,2,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,upc,2,Na,9,27.855283,-115.075783,Crustose_coralline_algae ,7,Na
+2017,10,23,Gavilanes,Mid,Häctor H.,upc,2,Na,9,27.855283,-115.075783,Articulated_coralline_algae ,3,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Bedrock_1_m,26,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Cobble_10cm,3,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,sand,1,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,0_10 cm,8,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,10 cm_1 m,18,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,1 m_2 m,4,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Drift_algae       ,3,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Bare_sand,4,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Shell_debris,3,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Encrusting_red,5,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Crustose_coralline_algae ,3,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Articulated_coralline_algae ,11,Na
+2017,10,23,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Sponge,4,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,0-10,6,27.8545,-115.075867,Macrocystis_pyrifera,2,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,0-10,6,27.8545,-115.075867,Macrocystis_pyrifera_stipes,37,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,0-10,6,27.8545,-115.075867,Cystoseira_osmundasea,12,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,0-10,6,27.8545,-115.075867,Eisenia_arborea,22,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,20-Oct,6,27.8545,-115.075867,Macrocystis_pyrifera,4,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,20-Oct,6,27.8545,-115.075867,Macrocystis_pyrifera_stipes,80,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,20-Oct,6,27.8545,-115.075867,Cystoseira_osmundasea,10,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,20-Oct,6,27.8545,-115.075867,Eisenia_arborea,12,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,20-30,6,27.8545,-115.075867,Macrocystis_pyrifera,1,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,20-30,6,27.8545,-115.075867,Macrocystis_pyrifera_stipes,14,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,20-30,6,27.8545,-115.075867,Cystoseira_osmundasea,6,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,20-30,6,27.8545,-115.075867,Sargassum_muticum,1,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,1,20-30,6,27.8545,-115.075867,Eisenia_arborea,20,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,0-10,6,27.8545,-115.075867,Macrocystis_pyrifera,3,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,0-10,6,27.8545,-115.075867,Macrocystis_pyrifera_stipes,33,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,0-10,6,27.8545,-115.075867,Juvenile_laminariales,2,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,0-10,6,27.8545,-115.075867,Cystoseira_osmundasea,8,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,0-10,6,27.8545,-115.075867,Eisenia_arborea,35,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,20-Oct,6,27.8545,-115.075867,Macrocystis_pyrifera,5,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,20-Oct,6,27.8545,-115.075867,Macrocystis_pyrifera_stipes,52,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,20-Oct,6,27.8545,-115.075867,Cystoseira_osmundasea,6,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,20-Oct,6,27.8545,-115.075867,Eisenia_arborea,16,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,20-30,6,27.8545,-115.075867,Macrocystis_pyrifera,4,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,20-30,6,27.8545,-115.075867,Macrocystis_pyrifera_stipes,29,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,20-30,6,27.8545,-115.075867,Juvenile_laminariales,2,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,20-30,6,27.8545,-115.075867,Cystoseira_osmundasea,8,Na
+2018,3,3,Gavilanes,Shallow,Carlos H.,Algae,2,20-30,6,27.8545,-115.075867,Eisenia_arborea,8,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,0-10,10,27.855283,-115.075783,Macrocystis_pyrifera,3,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,0-10,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,14,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,0-10,10,27.855283,-115.075783,Juvenile_laminariales,7,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,0-10,10,27.855283,-115.075783,Cystoseira_osmundasea,5,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,0-10,10,27.855283,-115.075783,Sargassum_muticum,2,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,0-10,10,27.855283,-115.075783,Eisenia_arborea,12,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,20-Oct,10,27.855283,-115.075783,Macrocystis_pyrifera,6,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,20-Oct,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,101,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,20-Oct,10,27.855283,-115.075783,Cystoseira_osmundasea,7,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,20-Oct,10,27.855283,-115.075783,Sargassum_muticum,2,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,20-Oct,10,27.855283,-115.075783,Eisenia_arborea,16,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,20-30,10,27.855283,-115.075783,Macrocystis_pyrifera,3,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,20-30,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,40,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,20-30,10,27.855283,-115.075783,Cystoseira_osmundasea,4,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,20-30,10,27.855283,-115.075783,Sargassum_muticum,12,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,1,20-30,10,27.855283,-115.075783,Eisenia_arborea,20,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,0-10,10,27.855283,-115.075783,Macrocystis_pyrifera,11,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,0-10,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,140,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,0-10,10,27.855283,-115.075783,Juvenile_laminariales,11,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,0-10,10,27.855283,-115.075783,Cystoseira_osmundasea,10,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,0-10,10,27.855283,-115.075783,Sargassum_muticum,5,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,0-10,10,27.855283,-115.075783,Eisenia_arborea,36,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,20-Oct,10,27.855283,-115.075783,Macrocystis_pyrifera,9,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,20-Oct,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,75,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,20-Oct,10,27.855283,-115.075783,Juvenile_laminariales,6,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,20-Oct,10,27.855283,-115.075783,Cystoseira_osmundasea,9,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,20-Oct,10,27.855283,-115.075783,Sargassum_muticum,1,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,20-Oct,10,27.855283,-115.075783,Eisenia_arborea,23,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,20-30,10,27.855283,-115.075783,Macrocystis_pyrifera,7,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,20-30,10,27.855283,-115.075783,Macrocystis_pyrifera_stipes,37,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,20-30,10,27.855283,-115.075783,Juvenile_laminariales,6,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,20-30,10,27.855283,-115.075783,Cystoseira_osmundasea,20,Na
+2018,3,3,Gavilanes,Mid,Carlos H.,Algae,2,20-30,10,27.855283,-115.075783,Eisenia_arborea,24,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,1,0-10,16,27.857767,-115.08145,Macrocystis_pyrifera,7,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,1,0-10,16,27.857767,-115.08145,Macrocystis_pyrifera_stipes,94,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,1,0-10,16,27.857767,-115.08145,Juvenile_laminariales,1,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,1,0-10,16,27.857767,-115.08145,Macrocystis_pyrifera,9,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,1,20-Oct,16,27.857767,-115.08145,Macrocystis_pyrifera_stipes,159,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,1,20-30,16,27.857767,-115.08145,Juvenile_laminariales,1,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,1,20-30,16,27.857767,-115.08145,Macrocystis_pyrifera,2,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,1,20-30,16,27.857767,-115.08145,Macrocystis_pyrifera_stipes,18,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,1,20-30,16,27.857767,-115.08145,Juvenile_laminariales,1,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,2,0-10,16,27.857767,-115.08145,Macrocystis_pyrifera,6,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,2,0-10,16,27.857767,-115.08145,Macrocystis_pyrifera_stipes,85,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,2,0-10,16,27.857767,-115.08145,Juvenile_laminariales,4,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,2,20-Oct,16,27.857767,-115.08145,Macrocystis_pyrifera,4,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,2,20-Oct,16,27.857767,-115.08145,Macrocystis_pyrifera_stipes,14,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,2,20-Oct,16,27.857767,-115.08145,Juvenile_laminariales,3,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,2,20-30,16,27.857767,-115.08145,Macrocystis_pyrifera,94,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,2,20-30,16,27.857767,-115.08145,Macrocystis_pyrifera_stipes,9,Na
+2018,3,3,Gavilanes,Deep,Carlos H.,Algae,2,20-30,16,27.857767,-115.08145,Macrocystis_pyrifera,40,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Bedrock_1_m,17,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Boulder_10_cm_1_m,1,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Cobble_10cm,10,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,sand,2,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,0_10 cm,10,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,10 cm_1 m,19,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Bushy_cylindrical_branches,5,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Bare_rock,1,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Sediment_mud,7,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Crustose_coralline_algae ,12,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Articulated_coralline_algae ,6,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,1,Na,16,27.857767,-115.08145,Macrocystis_holdfast_live,2,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Bedrock_1_m,10,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Boulder_10_cm_1_m,1,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Cobble_10cm,7,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,sand,2,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,0_10 cm,9,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,10 cm_1 m,11,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Bushy_cylindrical_branches,4,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Bare_rock,1,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Bare_sand,1,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Sediment_mud,4,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Crustose_coralline_algae ,8,Na
+2018,3,3,Gavilanes,Deep,Fernanda A.,upc,2,Na,16,27.857767,-115.08145,Articulated_coralline_algae ,6,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,Bedrock_1_m,15,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,Boulder_10_cm_1_m,2,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,Cobble_10cm,4,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,sand,5,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,0_10 cm,14,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,10 cm_1 m,13,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,1 m_2 m,2,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,Drift_algae       ,2,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,Shell_debris,5,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,Lacy_filamentous_dense ,2,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,Crustose_coralline_algae ,10,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,Articulated_coralline_algae ,8,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,Egregia_menziesii,3,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,1,Na,12,27.855283,-115.075783,Macrocystis_holdfast_live,2,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,Bedrock_1_m,17,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,Boulder_10_cm_1_m,1,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,Cobble_10cm,5,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,sand,6,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,0_10 cm,9,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,10 cm_1 m,17,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,1 m_2 m,4,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,Bare_rock,1,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,Shell_debris,6,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,Lacy_filamentous_dense ,1,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,Crustose_coralline_algae ,5,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,Articulated_coralline_algae ,10,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,Egregia_menziesii,2,Na
+2018,3,3,Gavilanes,Mid,Fernanda A.,upc,2,Na,12,27.855283,-115.075783,Macrocystis_holdfast_live,3,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,1,Na,7,27.8545,-115.075867,Bedrock_1_m,13,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,1,Na,7,27.8545,-115.075867,Cobble_10cm,8,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,1,Na,7,27.8545,-115.075867,sand,7,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,1,Na,7,27.8545,-115.075867,0_10 cm,14,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,1,Na,7,27.8545,-115.075867,10 cm_1 m,13,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,1,Na,7,27.8545,-115.075867,Shell_debris,6,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,1,Na,7,27.8545,-115.075867,Branch_flat_branching ,1,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,1,Na,7,27.8545,-115.075867,Lacy_filamentous_dense ,1,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,1,Na,7,27.8545,-115.075867,Crustose_coralline_algae ,13,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,1,Na,7,27.8545,-115.075867,Articulated_coralline_algae ,4,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,1,Na,7,27.8545,-115.075867,Egregia_menziesii,1,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,1,Na,7,27.8545,-115.075867,Macrocystis_holdfast_live,2,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,Bedrock_1_m,13,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,Boulder_10_cm_1_m,4,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,Cobble_10cm,2,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,sand,9,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,0_10 cm,11,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,10 cm_1 m,15,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,1 m_2 m,3,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,Drift_algae       ,3,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,Shell_debris,9,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,Bushy_cylindrical_branches,4,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,Lacy_filamentous_dense ,1,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,Crustose_coralline_algae ,5,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,Articulated_coralline_algae ,5,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,Egregia_menziesii,1,Na
+2018,3,3,Gavilanes,Shallow,Fernanda A.,upc,2,Na,7,27.8545,-115.075867,Macrocystis_holdfast_live,2,Na
+2018,3,3,Gavilanes,Shallow,Daniel D.,Inverts,1,Na,6,27.855283,-115.075783,Megatura_crenulata,1,Na
+2018,3,3,Gavilanes,Shallow,Eliot. D.,Inverts,2,Na,6,27.855283,-115.075783,Megastrea_undosa,3,Na
+2018,3,3,Gavilanes,Shallow,Eliot. D.,Inverts,2,Na,6,27.855283,-115.075783,Acarnus_erithacus,3,Na
+2018,3,3,Gavilanes,Mid,Daniel D.,Inverts,1,Na,10,27.855283,-115.075783,Other_starfish,1,Na
+2018,3,3,Gavilanes,Mid,Daniel D.,Inverts,1,Na,10,27.855283,-115.075783,Parastichopus_californicus,12,Na
+2018,3,3,Gavilanes,Mid,Daniel D.,Inverts,1,Na,10,27.855283,-115.075783,Megatura_crenulata,1,Na
+2018,3,3,Gavilanes,Mid,Eliot. D.,Inverts,2,Na,10,27.855283,-115.075783,Megatura_crenulata,1,Na
+2018,3,3,Gavilanes,Mid,Eliot. D.,Inverts,2,Na,10,27.855283,-115.075783,Megastrea_undosa,13,Na
+2018,3,3,Gavilanes,Mid,Eliot. D.,Inverts,2,Na,10,27.855283,-115.075783,Spheciospongia_confoederata,2,Na
+2018,3,3,Gavilanes,Mid,Eliot. D.,Inverts,2,Na,10,27.855283,-115.075783,Acarnus_erithacus,12,Na
+2018,3,3,Gavilanes,Mid,Eliot. D.,Inverts,2,Na,10,27.855283,-115.075783,Lophogorgia_chilensis,1,Na
+2018,3,3,Gavilanes,Mid,Eliot. D.,Inverts,2,Na,10,27.855283,-115.075783,Anthopleura_sola,1,Na
+2018,3,3,Gavilanes,Mid,Eliot. D.,Inverts,2,Na,10,27.855283,-115.075783,Leucetta_losangelensis,1,Na
+2018,3,3,Gavilanes,Deep,Daniel D.,Inverts,1,Na,16,27.857767,-115.08145,Other_starfish,7,Na
+2018,3,3,Gavilanes,Deep,Daniel D.,Inverts,1,Na,16,27.857767,-115.08145,Parastichopus_californicus,1,Na
+2018,3,3,Gavilanes,Deep,Daniel D.,Inverts,1,Na,16,27.857767,-115.08145,Parastichopus_parvimensis,2,Na
+2018,3,3,Gavilanes,Deep,Daniel D.,Inverts,1,Na,16,27.857767,-115.08145,Panulirus_innterruptus         ,1,Na
+2018,3,3,Gavilanes,Deep,Daniel D.,Inverts,1,Na,16,27.857767,-115.08145,Megatura_crenulata,5,Na
+2018,3,3,Gavilanes,Deep,Eliot. D.,Inverts,2,Na,16,27.857767,-115.08145,Panulirus_innterruptus         ,1,Na
+2018,3,3,Gavilanes,Deep,Eliot. D.,Inverts,2,Na,16,27.857767,-115.08145,Megatura_crenulata,8,Na
+2018,3,3,Gavilanes,Deep,Eliot. D.,Inverts,2,Na,16,27.857767,-115.08145,Acarnus_erithacus,4,Na
+2018,3,3,Gavilanes,Deep,Eliot. D.,Inverts,2,Na,16,27.857767,-115.08145,Metandrocarpa_taylori,3,Na
+2018,3,3,Gavilanes,Deep,Eliot. D.,Inverts,2,Na,16,27.857767,-115.08145,Lophogorgia_chilensis,5,Na
+2018,3,3,Gavilanes,Deep,Eliot. D.,Inverts,2,Na,16,27.857767,-115.08145,Muricea_californica,3,Na
+2018,3,3,Gavilanes,Deep,Eliot. D.,Inverts,2,Na,16,27.857767,-115.08145,Leucetta_losangelensis,4,Na
+2018,3,3,Gavilanes,Deep,Eliot. D.,Inverts,2,Na,16,27.857767,-115.08145,Muricea_fruticosa,6,Na
+2018,3,3,Gavilanes,Deep,Eliot. D.,Inverts,2,Na,16,27.857767,-115.08145,Clavalina_huntsmania,10,Na
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,1,Na,7,27.8545,-115.075867,Halichoeres_semicinctus,3,20
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,1,Na,7,27.8545,-115.075867,Paralabrax_nebulifer,1,31
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,1,Na,7,27.8545,-115.075867,Anisotremus_davidsonii,36,27
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,1,Na,7,27.8545,-115.075867,Paralabrax_clathratus,1,15
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,1,Na,7,27.8545,-115.075867,Hypsypops_rubicundus,1,23
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,1,Na,7,27.8545,-115.075867,Hypsypops_rubicundus,1,29
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,2,Na,7,27.8545,-115.075867,Halichoeres_semicinctus,1,18
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,2,Na,7,27.8545,-115.075867,Halichoeres_semicinctus,1,23
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,2,Na,7,27.8545,-115.075867,Paralabrax_nebulifer,1,40
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,2,Na,7,27.8545,-115.075867,Paralabrax_nebulifer,1,32
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,2,Na,7,27.8545,-115.075867,Semicossyphus_pulcher,2,15
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,2,Na,7,27.8545,-115.075867,Paralabrax_clathratus,1,34
+2018,3,3,Gavilanes,Shallow,Eliot. D.,fish,2,Na,7,27.8545,-115.075867,Hypsypops_rubicundus,1,30
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,1,Na,10,27.855283,-115.075783,Oxyjulis_californica,57,12
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,1,Na,10,27.855283,-115.075783,Halichoeres_semicinctus,8,27
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,1,Na,10,27.855283,-115.075783,Paralabrax_nebulifer,4,34
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,1,Na,10,27.855283,-115.075783,Paralabrax_clathratus,2,17
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,1,Na,10,27.855283,-115.075783,Paralabrax_clathratus,1,10
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,1,Na,10,27.855283,-115.075783,Paralabrax_clathratus,2,40
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,1,Na,10,27.855283,-115.075783,Paralabrax_clathratus,1,35
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,1,Na,10,27.855283,-115.075783,Semicossyphus_pulcher,1,45
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,1,Na,10,27.855283,-115.075783,Semicossyphus_pulcher,2,37
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,2,Na,10,27.855283,-115.075783,Oxyjulis_californica,12,10
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,2,Na,10,27.855283,-115.075783,Halichoeres_semicinctus,2,22
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,2,Na,10,27.855283,-115.075783,Paralabrax_nebulifer,1,21
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,2,Na,10,27.855283,-115.075783,Paralabrax_nebulifer,1,35
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,2,Na,10,27.855283,-115.075783,Semicossyphus_pulcher,1,45
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,2,Na,10,27.855283,-115.075783,Semicossyphus_pulcher,3,38
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,2,Na,10,27.855283,-115.075783,Semicossyphus_pulcher,1,12
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,2,Na,10,27.855283,-115.075783,Semicossyphus_pulcher,1,55
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,2,Na,10,27.855283,-115.075783,Paralabrax_clathratus,2,37
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,2,Na,10,27.855283,-115.075783,Paralabrax_clathratus,4,18
+2018,3,3,Gavilanes,Mid,Eliot. D.,fish,2,Na,10,27.855283,-115.075783,Paralabrax_clathratus,1,15
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Paralabrax_nebulifer,3,35
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,8,40
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,3,50
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,3,25
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Paralabrax_clathratus,5,30
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Paralabrax_clathratus,7,40
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,1,Na,16,27.857767,-115.08145,Paralabrax_clathratus,6,20
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Halichoeres_semicinctus,1,12
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Halichoeres_semicinctus,1,20
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Chromis_punctipinnis,8,17
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Chromis_punctipinnis,35,12
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Chromis_punctipinnis,2,20
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,1,15
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,8,28
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Semicossyphus_pulcher,6,50
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_clathratus,9,25
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_clathratus,16,35
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Paralabrax_clathratus,4,50
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Rhacochilus_vacca,3,23
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Gobiidae_spp,1,10
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Hypsypops_rubicundus,2,20
+2018,3,3,Gavilanes,Deep,Eliot. D.,fish,2,Na,16,27.857767,-115.08145,Hypsypops_rubicundus,2,30
